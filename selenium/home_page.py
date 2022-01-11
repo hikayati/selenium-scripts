@@ -30,7 +30,16 @@ class home_page_test(unittest.TestCase):
     we have to try to make a function for each test case so our test cases are atomic,
     means one function only test one think only and second thing is autonomous which
     says, one test cases should be independent not depending on other test cases
-    """ 
+    """
+
+    def __init__(self, *args, **kwargs):
+        super(home_page_test, self).__init__(*args, **kwargs)
+        home_page_url = "https://new.hekayati.com/"
+        driver.get(home_page_url)
+        import time
+        print("Waitng for 4 sec...")
+        time.sleep(4)
+
     def test_home_page_loading(self):
         #url = home_page_url
         #driver.get(url)
@@ -147,7 +156,7 @@ class home_page_test(unittest.TestCase):
 
     def test_check_footer_icons(self):
         try:
-            driver.find_element_by_css_selector('#hek-footer i')
+            driver.find_element_by_css_selector('#hek-footer i')            
             pass
         except:
             self.fail ("Video section missing...")
@@ -155,15 +164,8 @@ class home_page_test(unittest.TestCase):
 
     def tearDown(self):
         pass
-        #driver.quit()
+        driver.quit()
 
 if __name__ == '__main__':
-    home_page_url = "https://new.hekayati.com/"
-    driver.get(home_page_url)
-    import time
-    print("Waitng for 4 sec...")
-    time.sleep(4)
-    with warnings.catch_warnings():
-        warnings.simplefilter('ignore', category=ImportWarning)
-        unittest.main()
+    unittest.main()
     #driver.quit()
