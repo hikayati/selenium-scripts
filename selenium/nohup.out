@@ -231,3 +231,1176 @@
 [I 20:54:23.031 NotebookApp] Saving file at /selenium_test_casesV1_1.ipynb
 [I 20:54:24.297 NotebookApp] Saving file at /selenium_test_casesV1_1.ipynb
 [I 20:54:28.378 NotebookApp] Starting buffering for f167ffd0-1a4a-4aa8-83cc-803d0376230d:3ddb0fa41cf640d495aca425dff230d1
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 19, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x559edc536ee3 <unknown>
+#1 0x559edc004608 <unknown>
+#2 0x559edc03aaa1 <unknown>
+#3 0x559edc03ac61 <unknown>
+#4 0x559edc06d714 <unknown>
+#5 0x559edc05829d <unknown>
+#6 0x559edc06b3bc <unknown>
+#7 0x559edc058163 <unknown>
+#8 0x559edc02dbfc <unknown>
+#9 0x559edc02ec05 <unknown>
+#10 0x559edc568baa <unknown>
+#11 0x559edc57e651 <unknown>
+#12 0x559edc569b05 <unknown>
+#13 0x559edc57fa68 <unknown>
+#14 0x559edc55e05f <unknown>
+#15 0x559edc59a818 <unknown>
+#16 0x559edc59a998 <unknown>
+#17 0x559edc5b5eed <unknown>
+#18 0x7f5519dd8609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55abef15bee3 <unknown>
+#1 0x55abeec29608 <unknown>
+#2 0x55abeec5faa1 <unknown>
+#3 0x55abeec5fc61 <unknown>
+#4 0x55abeec92714 <unknown>
+#5 0x55abeec7d29d <unknown>
+#6 0x55abeec903bc <unknown>
+#7 0x55abeec7d163 <unknown>
+#8 0x55abeec52bfc <unknown>
+#9 0x55abeec53c05 <unknown>
+#10 0x55abef18dbaa <unknown>
+#11 0x55abef1a3651 <unknown>
+#12 0x55abef18eb05 <unknown>
+#13 0x55abef1a4a68 <unknown>
+#14 0x55abef18305f <unknown>
+#15 0x55abef1bf818 <unknown>
+#16 0x55abef1bf998 <unknown>
+#17 0x55abef1daeed <unknown>
+#18 0x7f7741ad7609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55d22a5d2ee3 <unknown>
+#1 0x55d22a0a0608 <unknown>
+#2 0x55d22a0d6aa1 <unknown>
+#3 0x55d22a0d6c61 <unknown>
+#4 0x55d22a109714 <unknown>
+#5 0x55d22a0f429d <unknown>
+#6 0x55d22a1073bc <unknown>
+#7 0x55d22a0f4163 <unknown>
+#8 0x55d22a0c9bfc <unknown>
+#9 0x55d22a0cac05 <unknown>
+#10 0x55d22a604baa <unknown>
+#11 0x55d22a61a651 <unknown>
+#12 0x55d22a605b05 <unknown>
+#13 0x55d22a61ba68 <unknown>
+#14 0x55d22a5fa05f <unknown>
+#15 0x55d22a636818 <unknown>
+#16 0x55d22a636998 <unknown>
+#17 0x55d22a651eed <unknown>
+#18 0x7fab1b791609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55ee2c1a7ee3 <unknown>
+#1 0x55ee2bc75608 <unknown>
+#2 0x55ee2bcabaa1 <unknown>
+#3 0x55ee2bcabc61 <unknown>
+#4 0x55ee2bcde714 <unknown>
+#5 0x55ee2bcc929d <unknown>
+#6 0x55ee2bcdc3bc <unknown>
+#7 0x55ee2bcc9163 <unknown>
+#8 0x55ee2bc9ebfc <unknown>
+#9 0x55ee2bc9fc05 <unknown>
+#10 0x55ee2c1d9baa <unknown>
+#11 0x55ee2c1ef651 <unknown>
+#12 0x55ee2c1dab05 <unknown>
+#13 0x55ee2c1f0a68 <unknown>
+#14 0x55ee2c1cf05f <unknown>
+#15 0x55ee2c20b818 <unknown>
+#16 0x55ee2c20b998 <unknown>
+#17 0x55ee2c226eed <unknown>
+#18 0x7fb8ce375609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x5613ff4e6ee3 <unknown>
+#1 0x5613fefb4608 <unknown>
+#2 0x5613fefeaaa1 <unknown>
+#3 0x5613fefeac61 <unknown>
+#4 0x5613ff01d714 <unknown>
+#5 0x5613ff00829d <unknown>
+#6 0x5613ff01b3bc <unknown>
+#7 0x5613ff008163 <unknown>
+#8 0x5613fefddbfc <unknown>
+#9 0x5613fefdec05 <unknown>
+#10 0x5613ff518baa <unknown>
+#11 0x5613ff52e651 <unknown>
+#12 0x5613ff519b05 <unknown>
+#13 0x5613ff52fa68 <unknown>
+#14 0x5613ff50e05f <unknown>
+#15 0x5613ff54a818 <unknown>
+#16 0x5613ff54a998 <unknown>
+#17 0x5613ff565eed <unknown>
+#18 0x7f65cbf3b609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55bd86afaee3 <unknown>
+#1 0x55bd865c8608 <unknown>
+#2 0x55bd865feaa1 <unknown>
+#3 0x55bd865fec61 <unknown>
+#4 0x55bd86631714 <unknown>
+#5 0x55bd8661c29d <unknown>
+#6 0x55bd8662f3bc <unknown>
+#7 0x55bd8661c163 <unknown>
+#8 0x55bd865f1bfc <unknown>
+#9 0x55bd865f2c05 <unknown>
+#10 0x55bd86b2cbaa <unknown>
+#11 0x55bd86b42651 <unknown>
+#12 0x55bd86b2db05 <unknown>
+#13 0x55bd86b43a68 <unknown>
+#14 0x55bd86b2205f <unknown>
+#15 0x55bd86b5e818 <unknown>
+#16 0x55bd86b5e998 <unknown>
+#17 0x55bd86b79eed <unknown>
+#18 0x7fb3d30f7609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x559b53154ee3 <unknown>
+#1 0x559b52c22608 <unknown>
+#2 0x559b52c58aa1 <unknown>
+#3 0x559b52c58c61 <unknown>
+#4 0x559b52c8b714 <unknown>
+#5 0x559b52c7629d <unknown>
+#6 0x559b52c893bc <unknown>
+#7 0x559b52c76163 <unknown>
+#8 0x559b52c4bbfc <unknown>
+#9 0x559b52c4cc05 <unknown>
+#10 0x559b53186baa <unknown>
+#11 0x559b5319c651 <unknown>
+#12 0x559b53187b05 <unknown>
+#13 0x559b5319da68 <unknown>
+#14 0x559b5317c05f <unknown>
+#15 0x559b531b8818 <unknown>
+#16 0x559b531b8998 <unknown>
+#17 0x559b531d3eed <unknown>
+#18 0x7f6e6d9f5609 <unknown>
+
+Cart is Empty: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#billing_first_name"}
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+#0 0x559b53154ee3 <unknown>
+#1 0x559b52c22608 <unknown>
+#2 0x559b52c58aa1 <unknown>
+#3 0x559b52c58c61 <unknown>
+#4 0x559b52c8b714 <unknown>
+#5 0x559b52c7629d <unknown>
+#6 0x559b52c893bc <unknown>
+#7 0x559b52c76163 <unknown>
+#8 0x559b52c4bbfc <unknown>
+#9 0x559b52c4cc05 <unknown>
+#10 0x559b53186baa <unknown>
+#11 0x559b5319c651 <unknown>
+#12 0x559b53187b05 <unknown>
+#13 0x559b5319da68 <unknown>
+#14 0x559b5317c05f <unknown>
+#15 0x559b531b8818 <unknown>
+#16 0x559b531b8998 <unknown>
+#17 0x559b531d3eed <unknown>
+#18 0x7f6e6d9f5609 <unknown>
+
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 212, in <module>
+    driver.find_element_by_css_selector("#billing_last_name").send_keys("selenium")
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 808, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 1246, in find_element
+    'value': value})['value']
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#billing_last_name"}
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+#0 0x559b53154ee3 <unknown>
+#1 0x559b52c22608 <unknown>
+#2 0x559b52c58aa1 <unknown>
+#3 0x559b52c58c61 <unknown>
+#4 0x559b52c8b714 <unknown>
+#5 0x559b52c7629d <unknown>
+#6 0x559b52c893bc <unknown>
+#7 0x559b52c76163 <unknown>
+#8 0x559b52c4bbfc <unknown>
+#9 0x559b52c4cc05 <unknown>
+#10 0x559b53186baa <unknown>
+#11 0x559b5319c651 <unknown>
+#12 0x559b53187b05 <unknown>
+#13 0x559b5319da68 <unknown>
+#14 0x559b5317c05f <unknown>
+#15 0x559b531b8818 <unknown>
+#16 0x559b531b8998 <unknown>
+#17 0x559b531d3eed <unknown>
+#18 0x7f6e6d9f5609 <unknown>
+
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x559b6e045ee3 <unknown>
+#1 0x559b6db13608 <unknown>
+#2 0x559b6db49aa1 <unknown>
+#3 0x559b6db49c61 <unknown>
+#4 0x559b6db7c714 <unknown>
+#5 0x559b6db6729d <unknown>
+#6 0x559b6db7a3bc <unknown>
+#7 0x559b6db67163 <unknown>
+#8 0x559b6db3cbfc <unknown>
+#9 0x559b6db3dc05 <unknown>
+#10 0x559b6e077baa <unknown>
+#11 0x559b6e08d651 <unknown>
+#12 0x559b6e078b05 <unknown>
+#13 0x559b6e08ea68 <unknown>
+#14 0x559b6e06d05f <unknown>
+#15 0x559b6e0a9818 <unknown>
+#16 0x559b6e0a9998 <unknown>
+#17 0x559b6e0c4eed <unknown>
+#18 0x7f109ca23609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55b77c510ee3 <unknown>
+#1 0x55b77bfde608 <unknown>
+#2 0x55b77c014aa1 <unknown>
+#3 0x55b77c014c61 <unknown>
+#4 0x55b77c047714 <unknown>
+#5 0x55b77c03229d <unknown>
+#6 0x55b77c0453bc <unknown>
+#7 0x55b77c032163 <unknown>
+#8 0x55b77c007bfc <unknown>
+#9 0x55b77c008c05 <unknown>
+#10 0x55b77c542baa <unknown>
+#11 0x55b77c558651 <unknown>
+#12 0x55b77c543b05 <unknown>
+#13 0x55b77c559a68 <unknown>
+#14 0x55b77c53805f <unknown>
+#15 0x55b77c574818 <unknown>
+#16 0x55b77c574998 <unknown>
+#17 0x55b77c58feed <unknown>
+#18 0x7fb8c1cae609 <unknown>
+
+Cart is Empty: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#billing_first_name"}
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+#0 0x55b77c510ee3 <unknown>
+#1 0x55b77bfde608 <unknown>
+#2 0x55b77c014aa1 <unknown>
+#3 0x55b77c014c61 <unknown>
+#4 0x55b77c047714 <unknown>
+#5 0x55b77c03229d <unknown>
+#6 0x55b77c0453bc <unknown>
+#7 0x55b77c032163 <unknown>
+#8 0x55b77c007bfc <unknown>
+#9 0x55b77c008c05 <unknown>
+#10 0x55b77c542baa <unknown>
+#11 0x55b77c558651 <unknown>
+#12 0x55b77c543b05 <unknown>
+#13 0x55b77c559a68 <unknown>
+#14 0x55b77c53805f <unknown>
+#15 0x55b77c574818 <unknown>
+#16 0x55b77c574998 <unknown>
+#17 0x55b77c58feed <unknown>
+#18 0x7fb8c1cae609 <unknown>
+
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 212, in <module>
+    driver.find_element_by_css_selector("#billing_last_name").send_keys("selenium")
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 808, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 1246, in find_element
+    'value': value})['value']
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#billing_last_name"}
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+#0 0x55b77c510ee3 <unknown>
+#1 0x55b77bfde608 <unknown>
+#2 0x55b77c014aa1 <unknown>
+#3 0x55b77c014c61 <unknown>
+#4 0x55b77c047714 <unknown>
+#5 0x55b77c03229d <unknown>
+#6 0x55b77c0453bc <unknown>
+#7 0x55b77c032163 <unknown>
+#8 0x55b77c007bfc <unknown>
+#9 0x55b77c008c05 <unknown>
+#10 0x55b77c542baa <unknown>
+#11 0x55b77c558651 <unknown>
+#12 0x55b77c543b05 <unknown>
+#13 0x55b77c559a68 <unknown>
+#14 0x55b77c53805f <unknown>
+#15 0x55b77c574818 <unknown>
+#16 0x55b77c574998 <unknown>
+#17 0x55b77c58feed <unknown>
+#18 0x7fb8c1cae609 <unknown>
+
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55a5150f1ee3 <unknown>
+#1 0x55a514bbf608 <unknown>
+#2 0x55a514bf5aa1 <unknown>
+#3 0x55a514bf5c61 <unknown>
+#4 0x55a514c28714 <unknown>
+#5 0x55a514c1329d <unknown>
+#6 0x55a514c263bc <unknown>
+#7 0x55a514c13163 <unknown>
+#8 0x55a514be8bfc <unknown>
+#9 0x55a514be9c05 <unknown>
+#10 0x55a515123baa <unknown>
+#11 0x55a515139651 <unknown>
+#12 0x55a515124b05 <unknown>
+#13 0x55a51513aa68 <unknown>
+#14 0x55a51511905f <unknown>
+#15 0x55a515155818 <unknown>
+#16 0x55a515155998 <unknown>
+#17 0x55a515170eed <unknown>
+#18 0x7f9c132f8609 <unknown>
+
+Cart is Empty: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#billing_first_name"}
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+#0 0x55a5150f1ee3 <unknown>
+#1 0x55a514bbf608 <unknown>
+#2 0x55a514bf5aa1 <unknown>
+#3 0x55a514bf5c61 <unknown>
+#4 0x55a514c28714 <unknown>
+#5 0x55a514c1329d <unknown>
+#6 0x55a514c263bc <unknown>
+#7 0x55a514c13163 <unknown>
+#8 0x55a514be8bfc <unknown>
+#9 0x55a514be9c05 <unknown>
+#10 0x55a515123baa <unknown>
+#11 0x55a515139651 <unknown>
+#12 0x55a515124b05 <unknown>
+#13 0x55a51513aa68 <unknown>
+#14 0x55a51511905f <unknown>
+#15 0x55a515155818 <unknown>
+#16 0x55a515155998 <unknown>
+#17 0x55a515170eed <unknown>
+#18 0x7f9c132f8609 <unknown>
+
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 212, in <module>
+    driver.find_element_by_css_selector("#billing_last_name").send_keys("selenium")
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 808, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 1246, in find_element
+    'value': value})['value']
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#billing_last_name"}
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+#0 0x55a5150f1ee3 <unknown>
+#1 0x55a514bbf608 <unknown>
+#2 0x55a514bf5aa1 <unknown>
+#3 0x55a514bf5c61 <unknown>
+#4 0x55a514c28714 <unknown>
+#5 0x55a514c1329d <unknown>
+#6 0x55a514c263bc <unknown>
+#7 0x55a514c13163 <unknown>
+#8 0x55a514be8bfc <unknown>
+#9 0x55a514be9c05 <unknown>
+#10 0x55a515123baa <unknown>
+#11 0x55a515139651 <unknown>
+#12 0x55a515124b05 <unknown>
+#13 0x55a51513aa68 <unknown>
+#14 0x55a51511905f <unknown>
+#15 0x55a515155818 <unknown>
+#16 0x55a515155998 <unknown>
+#17 0x55a515170eed <unknown>
+#18 0x7f9c132f8609 <unknown>
+
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55c458005ee3 <unknown>
+#1 0x55c457ad3608 <unknown>
+#2 0x55c457b09aa1 <unknown>
+#3 0x55c457b09c61 <unknown>
+#4 0x55c457b3c714 <unknown>
+#5 0x55c457b2729d <unknown>
+#6 0x55c457b3a3bc <unknown>
+#7 0x55c457b27163 <unknown>
+#8 0x55c457afcbfc <unknown>
+#9 0x55c457afdc05 <unknown>
+#10 0x55c458037baa <unknown>
+#11 0x55c45804d651 <unknown>
+#12 0x55c458038b05 <unknown>
+#13 0x55c45804ea68 <unknown>
+#14 0x55c45802d05f <unknown>
+#15 0x55c458069818 <unknown>
+#16 0x55c458069998 <unknown>
+#17 0x55c458084eed <unknown>
+#18 0x7ff6ef6ad609 <unknown>
+
+Cart is Empty: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#billing_first_name"}
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+#0 0x55c458005ee3 <unknown>
+#1 0x55c457ad3608 <unknown>
+#2 0x55c457b09aa1 <unknown>
+#3 0x55c457b09c61 <unknown>
+#4 0x55c457b3c714 <unknown>
+#5 0x55c457b2729d <unknown>
+#6 0x55c457b3a3bc <unknown>
+#7 0x55c457b27163 <unknown>
+#8 0x55c457afcbfc <unknown>
+#9 0x55c457afdc05 <unknown>
+#10 0x55c458037baa <unknown>
+#11 0x55c45804d651 <unknown>
+#12 0x55c458038b05 <unknown>
+#13 0x55c45804ea68 <unknown>
+#14 0x55c45802d05f <unknown>
+#15 0x55c458069818 <unknown>
+#16 0x55c458069998 <unknown>
+#17 0x55c458084eed <unknown>
+#18 0x7ff6ef6ad609 <unknown>
+
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 212, in <module>
+    driver.find_element_by_css_selector("#billing_last_name").send_keys("selenium")
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 808, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 1246, in find_element
+    'value': value})['value']
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#billing_last_name"}
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+#0 0x55c458005ee3 <unknown>
+#1 0x55c457ad3608 <unknown>
+#2 0x55c457b09aa1 <unknown>
+#3 0x55c457b09c61 <unknown>
+#4 0x55c457b3c714 <unknown>
+#5 0x55c457b2729d <unknown>
+#6 0x55c457b3a3bc <unknown>
+#7 0x55c457b27163 <unknown>
+#8 0x55c457afcbfc <unknown>
+#9 0x55c457afdc05 <unknown>
+#10 0x55c458037baa <unknown>
+#11 0x55c45804d651 <unknown>
+#12 0x55c458038b05 <unknown>
+#13 0x55c45804ea68 <unknown>
+#14 0x55c45802d05f <unknown>
+#15 0x55c458069818 <unknown>
+#16 0x55c458069998 <unknown>
+#17 0x55c458084eed <unknown>
+#18 0x7ff6ef6ad609 <unknown>
+
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55f861d8cee3 <unknown>
+#1 0x55f86185a608 <unknown>
+#2 0x55f861890aa1 <unknown>
+#3 0x55f861890c61 <unknown>
+#4 0x55f8618c3714 <unknown>
+#5 0x55f8618ae29d <unknown>
+#6 0x55f8618c13bc <unknown>
+#7 0x55f8618ae163 <unknown>
+#8 0x55f861883bfc <unknown>
+#9 0x55f861884c05 <unknown>
+#10 0x55f861dbebaa <unknown>
+#11 0x55f861dd4651 <unknown>
+#12 0x55f861dbfb05 <unknown>
+#13 0x55f861dd5a68 <unknown>
+#14 0x55f861db405f <unknown>
+#15 0x55f861df0818 <unknown>
+#16 0x55f861df0998 <unknown>
+#17 0x55f861e0beed <unknown>
+#18 0x7f0689d50609 <unknown>
+
+Cart is Empty: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#billing_first_name"}
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+#0 0x55f861d8cee3 <unknown>
+#1 0x55f86185a608 <unknown>
+#2 0x55f861890aa1 <unknown>
+#3 0x55f861890c61 <unknown>
+#4 0x55f8618c3714 <unknown>
+#5 0x55f8618ae29d <unknown>
+#6 0x55f8618c13bc <unknown>
+#7 0x55f8618ae163 <unknown>
+#8 0x55f861883bfc <unknown>
+#9 0x55f861884c05 <unknown>
+#10 0x55f861dbebaa <unknown>
+#11 0x55f861dd4651 <unknown>
+#12 0x55f861dbfb05 <unknown>
+#13 0x55f861dd5a68 <unknown>
+#14 0x55f861db405f <unknown>
+#15 0x55f861df0818 <unknown>
+#16 0x55f861df0998 <unknown>
+#17 0x55f861e0beed <unknown>
+#18 0x7f0689d50609 <unknown>
+
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 212, in <module>
+    driver.find_element_by_css_selector("#billing_last_name").send_keys("selenium")
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 808, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 1246, in find_element
+    'value': value})['value']
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#billing_last_name"}
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+#0 0x55f861d8cee3 <unknown>
+#1 0x55f86185a608 <unknown>
+#2 0x55f861890aa1 <unknown>
+#3 0x55f861890c61 <unknown>
+#4 0x55f8618c3714 <unknown>
+#5 0x55f8618ae29d <unknown>
+#6 0x55f8618c13bc <unknown>
+#7 0x55f8618ae163 <unknown>
+#8 0x55f861883bfc <unknown>
+#9 0x55f861884c05 <unknown>
+#10 0x55f861dbebaa <unknown>
+#11 0x55f861dd4651 <unknown>
+#12 0x55f861dbfb05 <unknown>
+#13 0x55f861dd5a68 <unknown>
+#14 0x55f861db405f <unknown>
+#15 0x55f861df0818 <unknown>
+#16 0x55f861df0998 <unknown>
+#17 0x55f861e0beed <unknown>
+#18 0x7f0689d50609 <unknown>
+
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55cbce8d5ee3 <unknown>
+#1 0x55cbce3a3608 <unknown>
+#2 0x55cbce3d9aa1 <unknown>
+#3 0x55cbce3d9c61 <unknown>
+#4 0x55cbce40c714 <unknown>
+#5 0x55cbce3f729d <unknown>
+#6 0x55cbce40a3bc <unknown>
+#7 0x55cbce3f7163 <unknown>
+#8 0x55cbce3ccbfc <unknown>
+#9 0x55cbce3cdc05 <unknown>
+#10 0x55cbce907baa <unknown>
+#11 0x55cbce91d651 <unknown>
+#12 0x55cbce908b05 <unknown>
+#13 0x55cbce91ea68 <unknown>
+#14 0x55cbce8fd05f <unknown>
+#15 0x55cbce939818 <unknown>
+#16 0x55cbce939998 <unknown>
+#17 0x55cbce954eed <unknown>
+#18 0x7f2988cb8609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55e725c7aee3 <unknown>
+#1 0x55e725748608 <unknown>
+#2 0x55e72577eaa1 <unknown>
+#3 0x55e72577ec61 <unknown>
+#4 0x55e7257b1714 <unknown>
+#5 0x55e72579c29d <unknown>
+#6 0x55e7257af3bc <unknown>
+#7 0x55e72579c163 <unknown>
+#8 0x55e725771bfc <unknown>
+#9 0x55e725772c05 <unknown>
+#10 0x55e725cacbaa <unknown>
+#11 0x55e725cc2651 <unknown>
+#12 0x55e725cadb05 <unknown>
+#13 0x55e725cc3a68 <unknown>
+#14 0x55e725ca205f <unknown>
+#15 0x55e725cde818 <unknown>
+#16 0x55e725cde998 <unknown>
+#17 0x55e725cf9eed <unknown>
+#18 0x7fb7d481f609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55a4d4e5dee3 <unknown>
+#1 0x55a4d492b608 <unknown>
+#2 0x55a4d4961aa1 <unknown>
+#3 0x55a4d4961c61 <unknown>
+#4 0x55a4d4994714 <unknown>
+#5 0x55a4d497f29d <unknown>
+#6 0x55a4d49923bc <unknown>
+#7 0x55a4d497f163 <unknown>
+#8 0x55a4d4954bfc <unknown>
+#9 0x55a4d4955c05 <unknown>
+#10 0x55a4d4e8fbaa <unknown>
+#11 0x55a4d4ea5651 <unknown>
+#12 0x55a4d4e90b05 <unknown>
+#13 0x55a4d4ea6a68 <unknown>
+#14 0x55a4d4e8505f <unknown>
+#15 0x55a4d4ec1818 <unknown>
+#16 0x55a4d4ec1998 <unknown>
+#17 0x55a4d4edceed <unknown>
+#18 0x7f5856a2b609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55f16f1f0ee3 <unknown>
+#1 0x55f16ecbe608 <unknown>
+#2 0x55f16ecf4aa1 <unknown>
+#3 0x55f16ecf4c61 <unknown>
+#4 0x55f16ed27714 <unknown>
+#5 0x55f16ed1229d <unknown>
+#6 0x55f16ed253bc <unknown>
+#7 0x55f16ed12163 <unknown>
+#8 0x55f16ece7bfc <unknown>
+#9 0x55f16ece8c05 <unknown>
+#10 0x55f16f222baa <unknown>
+#11 0x55f16f238651 <unknown>
+#12 0x55f16f223b05 <unknown>
+#13 0x55f16f239a68 <unknown>
+#14 0x55f16f21805f <unknown>
+#15 0x55f16f254818 <unknown>
+#16 0x55f16f254998 <unknown>
+#17 0x55f16f26feed <unknown>
+#18 0x7f010d30c609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x557435b76ee3 <unknown>
+#1 0x557435644608 <unknown>
+#2 0x55743567aaa1 <unknown>
+#3 0x55743567ac61 <unknown>
+#4 0x5574356ad714 <unknown>
+#5 0x55743569829d <unknown>
+#6 0x5574356ab3bc <unknown>
+#7 0x557435698163 <unknown>
+#8 0x55743566dbfc <unknown>
+#9 0x55743566ec05 <unknown>
+#10 0x557435ba8baa <unknown>
+#11 0x557435bbe651 <unknown>
+#12 0x557435ba9b05 <unknown>
+#13 0x557435bbfa68 <unknown>
+#14 0x557435b9e05f <unknown>
+#15 0x557435bda818 <unknown>
+#16 0x557435bda998 <unknown>
+#17 0x557435bf5eed <unknown>
+#18 0x7fc39a2fd609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x5637c6745ee3 <unknown>
+#1 0x5637c6213608 <unknown>
+#2 0x5637c6249aa1 <unknown>
+#3 0x5637c6249c61 <unknown>
+#4 0x5637c627c714 <unknown>
+#5 0x5637c626729d <unknown>
+#6 0x5637c627a3bc <unknown>
+#7 0x5637c6267163 <unknown>
+#8 0x5637c623cbfc <unknown>
+#9 0x5637c623dc05 <unknown>
+#10 0x5637c6777baa <unknown>
+#11 0x5637c678d651 <unknown>
+#12 0x5637c6778b05 <unknown>
+#13 0x5637c678ea68 <unknown>
+#14 0x5637c676d05f <unknown>
+#15 0x5637c67a9818 <unknown>
+#16 0x5637c67a9998 <unknown>
+#17 0x5637c67c4eed <unknown>
+#18 0x7f1043c75609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55a1b1034ee3 <unknown>
+#1 0x55a1b0b02608 <unknown>
+#2 0x55a1b0b38aa1 <unknown>
+#3 0x55a1b0b38c61 <unknown>
+#4 0x55a1b0b6b714 <unknown>
+#5 0x55a1b0b5629d <unknown>
+#6 0x55a1b0b693bc <unknown>
+#7 0x55a1b0b56163 <unknown>
+#8 0x55a1b0b2bbfc <unknown>
+#9 0x55a1b0b2cc05 <unknown>
+#10 0x55a1b1066baa <unknown>
+#11 0x55a1b107c651 <unknown>
+#12 0x55a1b1067b05 <unknown>
+#13 0x55a1b107da68 <unknown>
+#14 0x55a1b105c05f <unknown>
+#15 0x55a1b1098818 <unknown>
+#16 0x55a1b1098998 <unknown>
+#17 0x55a1b10b3eed <unknown>
+#18 0x7fc6181c7609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x5589cd80eee3 <unknown>
+#1 0x5589cd2dc608 <unknown>
+#2 0x5589cd312aa1 <unknown>
+#3 0x5589cd312c61 <unknown>
+#4 0x5589cd345714 <unknown>
+#5 0x5589cd33029d <unknown>
+#6 0x5589cd3433bc <unknown>
+#7 0x5589cd330163 <unknown>
+#8 0x5589cd305bfc <unknown>
+#9 0x5589cd306c05 <unknown>
+#10 0x5589cd840baa <unknown>
+#11 0x5589cd856651 <unknown>
+#12 0x5589cd841b05 <unknown>
+#13 0x5589cd857a68 <unknown>
+#14 0x5589cd83605f <unknown>
+#15 0x5589cd872818 <unknown>
+#16 0x5589cd872998 <unknown>
+#17 0x5589cd88deed <unknown>
+#18 0x7fee906ee609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55e869278ee3 <unknown>
+#1 0x55e868d46608 <unknown>
+#2 0x55e868d7caa1 <unknown>
+#3 0x55e868d7cc61 <unknown>
+#4 0x55e868daf714 <unknown>
+#5 0x55e868d9a29d <unknown>
+#6 0x55e868dad3bc <unknown>
+#7 0x55e868d9a163 <unknown>
+#8 0x55e868d6fbfc <unknown>
+#9 0x55e868d70c05 <unknown>
+#10 0x55e8692aabaa <unknown>
+#11 0x55e8692c0651 <unknown>
+#12 0x55e8692abb05 <unknown>
+#13 0x55e8692c1a68 <unknown>
+#14 0x55e8692a005f <unknown>
+#15 0x55e8692dc818 <unknown>
+#16 0x55e8692dc998 <unknown>
+#17 0x55e8692f7eed <unknown>
+#18 0x7f0d5f7e2609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55f6c55a1ee3 <unknown>
+#1 0x55f6c506f608 <unknown>
+#2 0x55f6c50a5aa1 <unknown>
+#3 0x55f6c50a5c61 <unknown>
+#4 0x55f6c50d8714 <unknown>
+#5 0x55f6c50c329d <unknown>
+#6 0x55f6c50d63bc <unknown>
+#7 0x55f6c50c3163 <unknown>
+#8 0x55f6c5098bfc <unknown>
+#9 0x55f6c5099c05 <unknown>
+#10 0x55f6c55d3baa <unknown>
+#11 0x55f6c55e9651 <unknown>
+#12 0x55f6c55d4b05 <unknown>
+#13 0x55f6c55eaa68 <unknown>
+#14 0x55f6c55c905f <unknown>
+#15 0x55f6c5605818 <unknown>
+#16 0x55f6c5605998 <unknown>
+#17 0x55f6c5620eed <unknown>
+#18 0x7f33cdc44609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x55ba7f05fee3 <unknown>
+#1 0x55ba7eb2d608 <unknown>
+#2 0x55ba7eb63aa1 <unknown>
+#3 0x55ba7eb63c61 <unknown>
+#4 0x55ba7eb96714 <unknown>
+#5 0x55ba7eb8129d <unknown>
+#6 0x55ba7eb943bc <unknown>
+#7 0x55ba7eb81163 <unknown>
+#8 0x55ba7eb56bfc <unknown>
+#9 0x55ba7eb57c05 <unknown>
+#10 0x55ba7f091baa <unknown>
+#11 0x55ba7f0a7651 <unknown>
+#12 0x55ba7f092b05 <unknown>
+#13 0x55ba7f0a8a68 <unknown>
+#14 0x55ba7f08705f <unknown>
+#15 0x55ba7f0c3818 <unknown>
+#16 0x55ba7f0c3998 <unknown>
+#17 0x55ba7f0deeed <unknown>
+#18 0x7f8a8167b609 <unknown>
+
+COD is selected breaking
+Testing Home Page
+Testing Preview...
+Filling First Name and story details...
+Generating Book...
+Waiting for preview loading...
+Preview Button is Ready
+Check box on cover page checked breaking loop
+Pressing Checkout Button...
+Message: 
+Stacktrace:
+#0 0x559d2ebaaee3 <unknown>
+#1 0x559d2e678608 <unknown>
+#2 0x559d2e6aeaa1 <unknown>
+#3 0x559d2e6aec61 <unknown>
+#4 0x559d2e6e1714 <unknown>
+#5 0x559d2e6cc29d <unknown>
+#6 0x559d2e6df3bc <unknown>
+#7 0x559d2e6cc163 <unknown>
+#8 0x559d2e6a1bfc <unknown>
+#9 0x559d2e6a2c05 <unknown>
+#10 0x559d2ebdcbaa <unknown>
+#11 0x559d2ebf2651 <unknown>
+#12 0x559d2ebddb05 <unknown>
+#13 0x559d2ebf3a68 <unknown>
+#14 0x559d2ebd205f <unknown>
+#15 0x559d2ec0e818 <unknown>
+#16 0x559d2ec0e998 <unknown>
+#17 0x559d2ec29eed <unknown>
+#18 0x7fac30b84609 <unknown>
+
+COD is selected breaking
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 270, in <module>
+    WebDriverWait(driver, 200).until(EC.url_contains("https://ksa.hekayati.com/en/checkout/order-received"))
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 89, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+Traceback (most recent call last):
+  File "front-end-testing_v1_2.py", line 270, in <module>
+    WebDriverWait(driver, 200).until(EC.url_contains("https://ksa.hekayati.com/en/checkout/order-received"))
+  File "/home/sniper/work/test_suit/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 89, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
