@@ -284,6 +284,6 @@ WebDriverWait(driver, 200).until(EC.url_contains("https://ksa.hekayati.com/en/ch
 
 # In[ ]:
 
-#driver.quit()
+driver.quit()
 
 

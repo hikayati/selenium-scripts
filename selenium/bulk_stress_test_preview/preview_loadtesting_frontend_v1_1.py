@@ -20,6 +20,8 @@ warnings.filterwarnings("ignore")
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
+from selenium.webdriver.common.by import By
+
 #driver = webdriver.Chrome("./chromedriver/chromedriver")
 
 options = webdriver.ChromeOptions()
@@ -41,7 +43,7 @@ def load_preview(url):
     while wait_for_first_name < 30:
         time.sleep(2)
         try:
-            elem = driver.find_element_by_css_selector("#first_name")
+            elem = driver.find_element(By.NAME, "first_name")
             print("Page is fully loaded...")
             break
         except:
@@ -54,16 +56,15 @@ def load_preview(url):
 
     elem.send_keys("Ali")
 
-    elem = driver.find_element_by_css_selector("#last_name")
+    elem = driver.find_element(By.NAME, "last_name")
     elem.send_keys("Musa")
 
     
     #wcpa-image-group-61d2f10a715f2 > div > div:nth-child(2) > img
-    elem = driver.find_element_by_css_selector("img[attrfor=\"avatar_4_1\"]")
-    elem.click()
-
-    elem = driver.find_element_by_css_selector("button.generatebook")
-    elem.click()
+    print("Filling avatar...")
+    driver.find_element_by_css_selector("input[name='avatar'] + img").click()
+    print("Generating Book, button is clicked...")
+    driver.find_element_by_css_selector("button#nextBtn.generatebook").click()
 
     driver.switch_to.frame(driver.find_element_by_name("frame2"))
 
@@ -106,10 +107,9 @@ import json
 import sys
 
 products= [ 
-    'https://new.hekayati.com/product/what-will-you-be/',
-    'https://new.hekayati.com/product/the-ocean-keeper/',
-    'https://new.hekayati.com/product/the-football-star/',
-    'https://new.hekayati.com/product/on-a-space-mission/'
+    "https://ksa.hekayati.com/story/football-star/",
+    "https://ksa.hekayati.com/story/the-falcon/",
+    "https://ksa.hekayati.com/story/space-mission/"
 ]
 
 import sys
@@ -163,7 +163,7 @@ with open("./csvs/" + str(preview_requests) + ".txt", "w") as f:
 
 
 print("Quiting Driver Chrome...")
-driver.quit()
+#driver.quit()
 # In[ ]:
 
 

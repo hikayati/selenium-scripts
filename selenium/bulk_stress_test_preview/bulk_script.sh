@@ -1,6 +1,21 @@
-source env/bin/activate 
+source /home/sniper/work/test_suit/venv/bin/activate
 nohup python preview_loadtesting_frontend_v1_1.py 1 &
 nohup python preview_loadtesting_frontend_v1_1.py 2 &
 nohup python preview_loadtesting_frontend_v1_1.py 3 &
 nohup python preview_loadtesting_frontend_v1_1.py 4 &
 nohup python preview_loadtesting_frontend_v1_1.py 5 &
+nohup python preview_loadtesting_frontend_v1_1.py 6 &
+nohup python preview_loadtesting_frontend_v1_1.py 7 &
+nohup python preview_loadtesting_frontend_v1_1.py 8 &
+nohup python preview_loadtesting_frontend_v1_1.py 9 &
+nohup python preview_loadtesting_frontend_v1_1.py 10 &
+nohup python preview_loadtesting_frontend_v1_1.py 11 &
+nohup python preview_loadtesting_frontend_v1_1.py 12 &
+nohup python preview_loadtesting_frontend_v1_1.py 13 &
+nohup python preview_loadtesting_frontend_v1_1.py 14 &
+nohup python preview_loadtesting_frontend_v1_1.py 15 &
+nohup python preview_loadtesting_frontend_v1_1.py 16 &
+nohup python preview_loadtesting_frontend_v1_1.py 17 &
+nohup python preview_loadtesting_frontend_v1_1.py 18 &
+nohup python preview_loadtesting_frontend_v1_1.py 19 &
+nohup python preview_loadtesting_frontend_v1_1.py 20 &
