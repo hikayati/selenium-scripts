@@ -1,0 +1,2197 @@
+{
+   "book_name":"Welcome New Sibling",
+   "font_style":"kristen-itc/ITCKRIST.ttf",
+   "font_size":20,
+   "font_color":"rgb(48,48,48)",
+   "data":[
+      {
+         "page_no": 1,
+         "position": "topLeft",
+         "text_align": "center",
+         "font_color": "#ff0000",
+         "multiline_margin": 0,
+         "requireText": true,   
+   
+         "font_style" : "some-time-later/some-time-later.ttf",
+
+         "copy":{
+            "girl_girl":[
+               {
+                  "text":"{name}",
+                  "font_size":40,
+                  "bottom_margin":0
+               },
+               {
+                  "text":"and",
+                  "font_size":20,
+                  "bottom_margin":0
+               },
+               {
+                  "text":"Her New Sibling",
+                  "font_size":40
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"{name}",
+                  "font_size":40,
+                  "bottom_margin":0
+               },
+               {
+                  "text":"and",
+                  "font_size":20,
+                  "bottom_margin":0
+               },
+               {
+                  "text":"Her New Sibling",
+                  "font_size":40
+               }
+            ],
+            "boy_boy":[
+               {
+                  "text":"{name}",
+                  "font_size":40,
+                  "bottom_margin":0
+               },
+               {
+                  "text":"and",
+                  "font_size":20,
+                  "bottom_margin":0
+               },
+               {
+                  "text":"His New Sibling",
+                  "font_size":40
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"{name}",
+                  "font_size":40,
+                  "bottom_margin":0
+               },
+               {
+                  "text":"and",
+                  "font_size":20,
+                  "bottom_margin":0
+               },
+               {
+                  "text":"His New Sibling",
+                  "font_size":40
+               }
+            ]
+         }
+      },
+      {
+
+       "page_no":"1a",
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+
+       "page_no":"1b",
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+
+       "page_no":"1c",
+       "position":"topLeft",
+       "requireText":true,
+       "font_color":"rgb(0, 0, 0)",
+       "isDedicationMessage": true,
+       "multiline_margin": 50,
+
+        "margins": [
+          100,
+          100
+        ],
+       "copy":{
+          "boy_boy":[
+            {
+              "text": "Dear {name},"
+            },
+            {
+              "text": "Be like a tree of nature. Stand tall and proud. Give fruits and shade to everyone."
+            },
+            {
+              "text": "But never forget your roots in earth that nurture you."
+            },
+            {
+              "text": "Mama & Baba            "
+            }
+          ],
+          "girl_girl":[
+            {
+              "text": "Dear {name},"
+            },
+            {
+              "text": "Be like a tree of nature. Stand tall and proud. Give fruits and shade to everyone."
+            },
+            {
+              "text": "But never forget your roots in earth that nurture you."
+            },
+            {
+              "text": "Mama & Baba            "
+            }
+          ],
+          "boy_girl":[
+            {
+              "text": "Dear {name},"
+            },
+            {
+              "text": "Be like a tree of nature. Stand tall and proud. Give fruits and shade to everyone."
+            },
+            {
+              "text": "But never forget your roots in earth that nurture you."
+            },
+            {
+              "text": "Mama & Baba            "
+            }
+          ],
+          "girl_boy":[
+            {
+              "text": "Dear {name},"
+            },
+            {
+              "text": "Be like a tree of nature. Stand tall and proud. Give fruits and shade to everyone."
+            },
+            {
+              "text": "But never forget your roots in earth that nurture you."
+            },
+            {
+              "text": "Mama & Baba            "
+            }
+          ]
+       }
+      },
+      {
+
+       "page_no":"1d",
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+         "page_no":2,
+         "position": "topLeft",
+         "font_color": "#FFFFFF",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 20,
+         "offset": [
+            -120,
+            0
+          ],
+         "margins": [
+            0,
+            410
+          ],
+         "copy":{
+            "boy_boy":[
+               {
+                  "text": "There lived a princess,"
+         
+               },
+               {
+                  "text": "in a kingdom far far away."
+               },
+               {
+                  "text": "A magical place where trees smiled"
+               },
+               {
+                  "text"  : "and the flowers sway."
+               },
+               {
+                  "text": "The beautiful princess surrounded by all"
+               },
+               {
+                  "text": "things good,"
+               },
+               {
+                  "text": "She was the soul of the kingdom"
+               },
+               {
+                  "text": "and joy of the hood."
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text": "There lived a princess,",
+                   "font_size":20         
+               },
+               {
+                  "text": "in a kingdom far far away."
+               },
+
+               {
+                  "text": "A magical place where trees smiled"
+               },
+               {
+                  "text"  : "and the flowers sway.",
+                  "bottom_margin":25
+     
+               },
+               {
+                  "text": "The beautiful princess surrounded",
+                   "font_size":20
+               },
+               {
+                  "text": " by all things good,"
+               },
+               {
+                  "text": "She was the soul of the kingdom"
+               },
+               {
+                  "text": "and joy of the hood."
+               }
+            ],
+            "girl_boy" : [
+              {
+                  "text": "There lived a princess,",
+                   "font_size":20         
+               },
+               {
+                  "text": "in a kingdom far far away."
+               },    
+               {
+                  "text": "A magical place where trees smiled"
+               },
+               {
+                  "text"  : "and the flowers sway.",
+                  "bottom_margin":25
+     
+               },
+               {
+                  "text": "The beautiful princess surrounded",
+                   "font_size":20
+               },
+               {
+                  "text": " by all things good,"
+               },
+               {
+                  "text": "She was the soul of the kingdom"
+               },
+               {
+                  "text": "and joy of the hood."
+               }
+            ],
+            "boy_girl" : [
+             {
+                  "text": "There lived a princess,"
+         
+               },
+               {
+                  "text": "in a kingdom far far away."
+               },
+               {
+                  "text": "A magical place where trees smiled"
+               },
+               {
+                  "text"  : "and the flowers sway."
+               },
+               {
+                  "text": "The beautiful princess surrounded by all"
+               },
+               {
+                  "text": "things good,"
+               },
+               {
+                  "text": "She was the soul of the kingdom"
+               },
+               {
+                  "text": "and joy of the hood."
+               }
+            ]
+         }
+      },
+      {
+
+       "page_no":3,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+         "page_no":4,
+         "position": "topLeft",
+         "font_color": "#FFFFFF",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 20,
+          "offset": [
+              60,
+              25
+          ],
+          "margins": [
+            100,
+            70
+          ],
+         "copy":{
+            "boy_boy":[
+              {
+                  "text":"One fine day, there came a little sparrow"
+               },
+               {
+                  "text":"who whispered in her ear,"
+               },
+               {
+                  "text":"You’re soon going to be a big sister"
+               },
+               {
+                  "text":"my lovely lovely dear!",
+                  "bottom_margin":360
+               },
+               {
+                  "text":"It’s time to knit"
+               },
+               {
+                  "text":"beautiful scarves and baby blankets,"
+               },
+               {
+                  "text":"It’s time to rejoice"
+               },
+               {
+                  "text":"and open the royal banquets!"
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"There came a little sparrow"
+               },
+               {
+                  "text":"who whispered in her ear,"
+               },
+               {
+                  "text":"You’re soon going to be a big sister"
+               },
+               {
+                  "text":"my lovely lovely dear!",
+                  "bottom_margin":360
+               },
+               {
+                  "text":"It’s time to knit"
+               },
+               {
+                  "text":"beautiful scarves and baby blankets,"
+               },
+               {
+                  "text":"It’s time to rejoice"
+               },
+               {
+                  "text":"and open the royal banquets!"
+               }
+            ],
+            "boy_girl":[
+              {
+                  "text":"One fine day, there came a little sparrow"
+               },
+               {
+                  "text":"who whispered in her ear,"
+               },
+               {
+                  "text":"You’re soon going to be a big sister"
+               },
+               {
+                  "text":"my lovely lovely dear!",
+                  "bottom_margin":360
+               },
+               {
+                  "text":"It’s time to knit"
+               },
+               {
+                  "text":"beautiful scarves and baby blankets,"
+               },
+               {
+                  "text":"It’s time to rejoice"
+               },
+               {
+                  "text":"and open the royal banquets!"
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"There came a little sparrow"
+               },
+               {
+                  "text":"who whispered in her ear,"
+               },
+               {
+                  "text":"You’re soon going to be a big sister"
+               },
+               {
+                  "text":"my lovely lovely dear!",
+                  "bottom_margin":360
+               },
+               {
+                  "text":"It’s time to knit"
+               },
+               {
+                  "text":"beautiful scarves and baby blankets,"
+               },
+               {
+                  "text":"It’s time to rejoice"
+               },
+               {
+                  "text":"and open the royal banquets!"
+               }
+            ]
+         }
+      },
+      {
+
+       "page_no":5,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+        
+       "page_no":6,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+         "page_no":7,
+         "position":"topLeft",
+         "requireText":true,
+         "text_align": "center",
+         "multiline_margin": -2,
+         "font_color" :   "#FFFFFF",
+         "font_size" : 20,
+
+         "margins" : [
+            0,
+            80
+         ],
+
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"The excitement only grew"
+               },
+               {
+                  "text":"as the time came near,"
+               },
+               {
+                  "text":"They prepared for this moment"
+               },
+               {
+                  "text":"for almost a year!",
+                  "bottom_margin":20
+               },
+               {
+                  "text":"The little princess took charge"
+               },
+               {
+                  "text":"as the deputy of the King."
+               },
+               {
+                  "text":"Checked the batteries in the toys"
+               },
+               {
+                  "text":"to the squishy cot spring!"
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"The excitement only grew"
+               },
+               {
+                  "text":"as the time came near,"
+               },
+               {
+                  "text":"They prepared for this moment"
+               },
+               {
+                  "text":"for almost a year!",
+                  "bottom_margin":20
+               },
+               {
+                  "text":"The little princess took charge"
+               },
+               {
+                  "text":"as the deputy of the King."
+               },
+               {
+                  "text":"Checked the batteries in the toys"
+               },
+               {
+                  "text":"to the squishy cot spring!"
+               }
+          ],
+          "boy_girl":[
+               {
+                  "text":"The excitement only grew"
+               },
+               {
+                  "text":"as the time came near,"
+               },
+               {
+                  "text":"They prepared for this moment"
+               },
+               {
+                  "text":"for almost a year!",
+                  "bottom_margin":20
+               },
+               {
+                  "text":"The little princess took charge"
+               },
+               {
+                  "text":"as the deputy of the King."
+               },
+               {
+                  "text":"Checked the batteries in the toys"
+               },
+               {
+                  "text":"to the squishy cot spring!"
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"The excitement only grew"
+               },
+               {
+                  "text":"as the time came near,"
+               },
+               {
+                  "text":"They prepared for this moment"
+               },
+               {
+                  "text":"for almost a year!",
+                  "bottom_margin":20
+               },
+               {
+                  "text":"The little princess took charge"
+               },
+               {
+                  "text":"as the deputy of the King."
+               },
+               {
+                  "text":"Checked the batteries in the toys"
+               },
+               {
+                  "text":"to the squishy cot spring!"
+               }
+            ]
+         }
+      },      
+      {
+         "page_no":8,        
+         "position":"topLeft",
+         "requireText":false,
+         "font_color":"rgb(0, 0, 0)",
+         "multiline_margin":50,
+         "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+         "page_no":9,        
+         "position":"topLeft",
+         "requireText":true,
+         "text_align" : "center",         
+         "font_color" :   "#FFFFFF",
+         "multiline_margin": -2,
+
+         "offset" : [
+            -120,
+            30
+         ],
+         "margins" : [
+            0,
+            130
+         ],
+
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"The blessed day finally arrived"
+               },
+               {
+                  "text":"as the guard blew the horn!"
+               },
+               {
+                  "text":"Which shook the kingdom"
+               },
+               {
+                  "text":"up on this bright sleepy morn!",
+                  "bottom_margin":20
+               },
+               {
+                  "text":"What’s going on? asked a maiden,"
+               },
+               {
+                  "text":"as it still wasn’t clear,"
+               },
+               {
+                  "text":"It’s A Boy!, exclaimed the nurse,"
+               },
+               {
+                  "text":"our beautiful Prince is here!"
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"The blessed day finally arrived"
+               },
+               {
+                  "text":"as the guard blew the horn!"
+               },
+               {
+                  "text":"Which shook the kingdom"
+               },
+               {
+                  "text":"up on this bright sleepy morn!",
+                  "bottom_margin":20
+               },
+               {
+                  "text":"What’s going on? asked a maiden,"
+               },
+               {
+                  "text":"as it still wasn’t clear,"
+               },
+               {
+                  "text":"It’s A Boy!, exclaimed the nurse,"
+               },
+               {
+                  "text":"our beautiful Prince is here!"
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"The blessed day finally arrived"
+               },
+               {
+                  "text":"as the guard blew the horn!"
+               },
+               {
+                  "text":"Which shook the kingdom"
+               },
+               {
+                  "text":"up on this bright sleepy morn!",
+                  "bottom_margin":20
+               },
+               {
+                  "text":"What’s going on? asked a maiden,"
+               },
+               {
+                  "text":"as it still wasn’t clear,"
+               },
+               {
+                  "text":"It’s A Boy!, exclaimed the nurse,"
+               },
+               {
+                  "text":"our beautiful Prince is here!"
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"The blessed day finally arrived"
+               },
+               {
+                  "text":"as the guard blew the horn!"
+               },
+               {
+                  "text":"Which shook the kingdom"
+               },
+               {
+                  "text":"up on this bright sleepy morn!",
+                  "bottom_margin":20
+               },
+               {
+                  "text":"What’s going on? asked a maiden,"
+               },
+               {
+                  "text":"as it still wasn’t clear,"
+               },
+               {
+                  "text":"It’s A Boy!, exclaimed the nurse,"
+               },
+               {
+                  "text":"our beautiful Prince is here!"
+               }
+            ]
+         }
+      },
+      {
+         "page_no":10,
+         "position":"bottomLeft",
+         "requireText":true,
+         "font_color" : "#FFFFFF",
+         "text_align" : "center",         
+
+         "multiline_margin": -2,
+
+         "margins" : [
+            40,
+            90
+         ],
+
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"The baby prince soon became"
+               },
+               {
+                  "text":"the talk of the town,"
+               },
+               {
+                  "text":"People flocked the castle"
+               },
+               {
+                  "text":"and gathered around."
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"The baby prince soon became"
+               },
+               {
+                  "text":"the talk of the town,"
+               },
+               {
+                  "text":"People flocked the castle"
+               },
+               {
+                  "text":"and gathered around."
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"The baby prince soon became"
+               },
+               {
+                  "text":"the talk of the town,"
+               },
+               {
+                  "text":"People flocked the castle"
+               },
+               {
+                  "text":"and gathered around."
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"The baby prince soon became"
+               },
+               {
+                  "text":"the talk of the town,"
+               },
+               {
+                  "text":"People flocked the castle"
+               },
+               {
+                  "text":"and gathered around."
+               }
+            ]
+         }
+      },
+      {
+         "page_no":11,
+         "position":"topLeft",         
+         "font_color": "#FFFFFF",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 20,
+
+          "margins": [
+            80,
+            80
+          ],         
+
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"The princess looked curiously"
+               },
+               {
+                  "text":"from a distance afar."
+               },
+               {
+                  "text":"Why is he getting all the attention,"
+               },
+               {
+                  "text":"aren't I the kingdom star?"
+               }               
+            ],
+            "girl_girl":[
+               {
+                  "text":"The princess looked curiously"
+               },
+               {
+                  "text":"from a distance afar."
+               },
+               {
+                  "text":"Why is he getting all the attention,"
+               },
+               {
+                  "text":"aren't I the kingdom star?"
+               }               
+            ],
+            "boy_girl":[
+               {
+                  "text":"The princess looked curiously"
+               },
+               {
+                  "text":"from a distance afar."
+               },
+               {
+                  "text":"Why is he getting all the attention,"
+               },
+               {
+                  "text":"aren't I the kingdom star?"
+               }               
+            ],
+            "girl_boy":[
+               {
+                  "text":"The princess looked curiously"
+               },
+               {
+                  "text":"from a distance afar."
+               },
+               {
+                  "text":"Why is he getting all the attention,"
+               },
+               {
+                  "text":"aren't I the kingdom star?"
+               }               
+            ]
+         }
+      },
+      {
+        
+       "page_no":12,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+         "page_no":13,
+         "position":"topLeft",         
+         "font_color": "#000000",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 20,
+          "margins": [
+            80,
+            80
+          ],
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"As the prince dozed off"
+               },
+               {
+                  "text":"Into his mother’s arms and love divine,"
+               },
+               {
+                  "text":"The Princess is once again supreme,"
+               },
+               {
+                  "text":"‘The kingdom is all mine!’",
+                  "bottom_margin":20            
+               },
+               {
+                  "text":"She leaps from one hall to another"
+               },
+               {
+                  "text":"with valor and pride"
+               },
+               {
+                  "text":"No one to contest her presence,"
+               },
+               {
+                  "text":"none in her stride!"
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"As the prince dozed off"
+               },
+               {
+                  "text":"Into his mother’s arms and love divine,"
+               },
+               {
+                  "text":"The Princess is once again supreme,"
+               },
+               {
+                  "text":"‘The kingdom is all mine!’",
+                  "bottom_margin":20            
+               },
+               {
+                  "text":"She leaps from one hall to another"
+               },
+               {
+                  "text":"with valor and pride"
+               },
+               {
+                  "text":"No one to contest her presence,"
+               },
+               {
+                  "text":"none in her stride!"
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"As the prince dozed off"
+               },
+               {
+                  "text":"Into his mother’s arms and love divine,"
+               },
+               {
+                  "text":"The Princess is once again supreme,"
+               },
+               {
+                  "text":"‘The kingdom is all mine!’",
+                  "bottom_margin":20            
+               },
+               {
+                  "text":"She leaps from one hall to another"
+               },
+               {
+                  "text":"with valor and pride"
+               },
+               {
+                  "text":"No one to contest her presence,"
+               },
+               {
+                  "text":"none in her stride!"
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"As the prince dozed off"
+               },
+               {
+                  "text":"Into his mother’s arms and love divine,"
+               },
+               {
+                  "text":"The Princess is once again supreme,"
+               },
+               {
+                  "text":"‘The kingdom is all mine!’",
+                  "bottom_margin":20            
+               },
+               {
+                  "text":"She leaps from one hall to another"
+               },
+               {
+                  "text":"with valor and pride"
+               },
+               {
+                  "text":"No one to contest her presence,"
+               },
+               {
+                  "text":"none in her stride!"
+               }
+            ]
+         }
+      },
+      {
+         "page_no":14,          
+         "position": "topLeft",
+         "font_color": "#000000",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 20,
+          "margins": [
+            80,
+            80
+          ],
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"The princess’ adventure"
+               },
+               {
+                  "text":"is short lived however,"
+               },
+               {
+                  "text":"The young prince woke up"
+               },
+               {
+                  "text":"with a shrill and a quiver!"
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"The princess’ adventure"
+               },
+               {
+                  "text":"is short lived however,"
+               },
+               {
+                  "text":"The young prince woke up"
+               },
+               {
+                  "text":"with a shrill and a quiver!"
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"The princess’ adventure"
+               },
+               {
+                  "text":"is short lived however,"
+               },
+               {
+                  "text":"The young prince woke up"
+               },
+               {
+                  "text":"with a shrill and a quiver!"
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"The princess’ adventure"
+               },
+               {
+                  "text":"is short lived however,"
+               },
+               {
+                  "text":"The young prince woke up"
+               },
+               {
+                  "text":"with a shrill and a quiver!"
+               }
+            ]
+         }
+      },
+      {
+         "page_no":15,
+         "position": "topLeft",
+         "font_color": "#000000",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 20,
+         "margins": [
+            80,
+            20
+         ],
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"All rush to the baby’s aid again"
+               },
+               {
+                  "text":"and she rolls her eyes"
+               },
+               {
+                  "text":"No one cares about me anymore,"
+               },
+               {
+                  "text":"she says with deep sighs"
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"All rush to the baby’s aid again"
+               },
+               {
+                  "text":"and she rolls her eyes"
+               },
+               {
+                  "text":"No one cares about me anymore,"
+               },
+               {
+                  "text":"she says with deep sighs"
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"All rush to the baby’s aid again"
+               },
+               {
+                  "text":"and she rolls her eyes"
+               },
+               {
+                  "text":"No one cares about me anymore,"
+               },
+               {
+                  "text":"she says with deep sighs"
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"All rush to the baby’s aid again"
+               },
+               {
+                  "text":"and she rolls her eyes"
+               },
+               {
+                  "text":"No one cares about me anymore,"
+               },
+               {
+                  "text":"she says with deep sighs"
+               }
+            ]
+         }
+      },
+      {
+         "page_no":16,         
+         "position":"topLeft",
+         "requireText":true,
+         "font_color" : "#000000",
+         "text_align" : "center",         
+         "multiline_margin": -2,
+         "margins" : [
+            0,
+            430
+         ],
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"The Princess with her"
+               },
+               {
+                  "text":"big beautiful heart,"
+               },
+               {
+                  "text":"Has never felt so lonely,"
+               },
+               {
+                  "text":"never so apart!",
+                  "bottom_margin" : 20
+               },
+               {
+                  "text":"The newcomer has taken"
+               },
+               {
+                  "text":"her life by storm,"
+               },
+               {
+                  "text":"Is this what they call envy"
+               },
+               {
+                  "text":"this must be its form."
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"The Princess with her"
+               },
+               {
+                  "text":"big beautiful heart,"
+               },
+               {
+                  "text":"Has never felt so lonely,"
+               },
+               {
+                  "text":"never so apart!",
+                  "bottom_margin" : 20
+               },
+               {
+                  "text":"The newcomer has taken"
+               },
+               {
+                  "text":"her life by storm,"
+               },
+               {
+                  "text":"Is this what they call envy"
+               },
+               {
+                  "text":"this must be its form."
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"The Princess with her"
+               },
+               {
+                  "text":"big beautiful heart,"
+               },
+               {
+                  "text":"Has never felt so lonely,"
+               },
+               {
+                  "text":"never so apart!",
+                  "bottom_margin" : 20
+               },
+               {
+                  "text":"The newcomer has taken"
+               },
+               {
+                  "text":"her life by storm,"
+               },
+               {
+                  "text":"Is this what they call envy"
+               },
+               {
+                  "text":"this must be its form."
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"The Princess with her"
+               },
+               {
+                  "text":"big beautiful heart,"
+               },
+               {
+                  "text":"Has never felt so lonely,"
+               },
+               {
+                  "text":"never so apart!",
+                  "bottom_margin" : 20
+               },
+               {
+                  "text":"The newcomer has taken"
+               },
+               {
+                  "text":"her life by storm,"
+               },
+               {
+                  "text":"Is this what they call envy"
+               },
+               {
+                  "text":"this must be its form."
+               }
+            ]
+         }
+      },
+      {
+        
+       "page_no":17,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {        
+       "page_no":18,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+         "page_no":19,
+         
+         "position":"topLeft",         
+         "font_color": "#000000",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 16,
+          "text_box_width":80,
+          "margins": [
+            200,
+            120
+          ],
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"She decides to end"
+               },
+               {
+                  "text":"this struggle once and for all."
+               },
+               {
+                  "text":"It’s time to square up to the baby,"
+               },
+               {
+                  "text":"no matter how cuddly or small!",
+                  "bottom_margin" : 20
+               },
+               {
+                  "text":"Armed to the teeth with"
+               },
+               {
+                  "text":"A golden crown and a massive frown."
+               },
+               {
+                  "text":"She stomps straight to his cot,"
+               },
+               {
+                  "text":"determined to tackle him down!"
+               }
+
+            ],
+            "girl_girl":[
+               {
+                  "text":"She decides to end"
+               },
+               {
+                  "text":"this struggle once and for all."
+               },
+               {
+                  "text":"It’s time to square up to the baby,"
+               },
+               {
+                  "text":"no matter how cuddly or small!",
+                  "bottom_margin" : 20
+               },
+               {
+                  "text":"Armed to the teeth with"
+               },
+               {
+                  "text":"A golden crown and a massive frown."
+               },
+               {
+                  "text":"She stomps straight to his cot,"
+               },
+               {
+                  "text":"determined to tackle him down!"
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"She decides to end"
+               },
+               {
+                  "text":"this struggle once and for all."
+               },
+               {
+                  "text":"It’s time to square up to the baby,"
+               },
+               {
+                  "text":"no matter how cuddly or small!",
+                  "bottom_margin" : 20
+               },
+               {
+                  "text":"Armed to the teeth with"
+               },
+               {
+                  "text":"A golden crown and a massive frown."
+               },
+               {
+                  "text":"She stomps straight to his cot,"
+               },
+               {
+                  "text":"determined to tackle him down!"
+               }
+
+            ],
+            "girl_boy":[
+               {
+                  "text":"She decides to end"
+               },
+               {
+                  "text":"this struggle once and for all."
+               },
+               {
+                  "text":"It’s time to square up to the baby,"
+               },
+               {
+                  "text":"no matter how cuddly or small!",
+                  "bottom_margin" : 20
+               },
+               {
+                  "text":"Armed to the teeth with"
+               },
+               {
+                  "text":"A golden crown and a massive frown."
+               },
+               {
+                  "text":"She stomps straight to his cot,"
+               },
+               {
+                  "text":"determined to tackle him down!"
+               }
+            ]
+         }
+      },
+      {        
+       "page_no":20,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+         "page_no":21,         
+         "position": "topLeft",
+         "font_color": "#000000",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 20,
+         "margins": [
+            80,
+            80
+         ],
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"She stares down at the little baby"
+               },
+               {
+                  "text":"Who’s startled to see her,"
+               },
+               {
+                  "text":"His big brown eyes well up"
+               },
+               {
+                  "text":"and down rolls a tear!",
+                  "bottom_margin" : 350
+               },
+               {
+                  "text":"This sight melts her heart, as it stutters"
+               },
+               {
+                  "text":"It’s time for a truce, as the white flag flutters,"
+               },
+               {
+                  "text":"The princess smiles and Gu Gu Ga Ga the baby prince mutters!"
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"She stares down at the little baby"
+               },
+               {
+                  "text":"Who’s startled to see her,"
+               },
+               {
+                  "text":"His big brown eyes well up"
+               },
+               {
+                  "text":"and down rolls a tear!",
+                  "bottom_margin" : 350
+               },
+               {
+                  "text":"This sight melts her heart, as it stutters"
+               },
+               {
+                  "text":"It’s time for a truce, as the white flag flutters,"
+               },
+               {
+                  "text":"The princess smiles and Gu Gu Ga Ga the baby prince mutters!"
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"She stares down at the little baby"
+               },
+               {
+                  "text":"Who’s startled to see her,"
+               },
+               {
+                  "text":"His big brown eyes well up"
+               },
+               {
+                  "text":"and down rolls a tear!",
+                  "bottom_margin" : 350
+               },
+               {
+                  "text":"This sight melts her heart, as it stutters"
+               },
+               {
+                  "text":"It’s time for a truce, as the white flag flutters,"
+               },
+               {
+                  "text":"The princess smiles and Gu Gu Ga Ga the baby prince mutters!"
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"She stares down at the little baby"
+               },
+               {
+                  "text":"Who’s startled to see her,"
+               },
+               {
+                  "text":"His big brown eyes well up"
+               },
+               {
+                  "text":"and down rolls a tear!",
+                  "bottom_margin" : 350
+               },
+               {
+                  "text":"This sight melts her heart, as it stutters"
+               },
+               {
+                  "text":"It’s time for a truce, as the white flag flutters,"
+               },
+               {
+                  "text":"The princess smiles and Gu Gu Ga Ga the baby prince mutters!"
+               }
+            ]
+         }
+      },
+      {
+         "page_no":22,
+         
+          "position": "topLeft",
+         "font_color": "#FFFFFF",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 20,
+         "offset": [
+            -140,
+            0
+          ],
+         "margins": [
+            25,
+            80
+          ],
+
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"Soon the siblings began"
+               },
+               {
+                  "text":"a new journey of love and care"
+               },
+               {
+                  "text":"Gone are the days"
+               },
+               {
+                  "text":"in which she just couldn’t bear."
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"Soon the siblings began"
+               },
+               {
+                  "text":"a new journey of love and care"
+               },
+               {
+                  "text":"Gone are the days"
+               },
+               {
+                  "text":"in which she just couldn’t bear."
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"Soon the siblings began"
+               },
+               {
+                  "text":"a new journey of love and care"
+               },
+               {
+                  "text":"Gone are the days"
+               },
+               {
+                  "text":"in which she just couldn’t bear."
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"Soon the siblings began"
+               },
+               {
+                  "text":"a new journey of love and care"
+               },
+               {
+                  "text":"Gone are the days"
+               },
+               {
+                  "text":"in which she just couldn’t bear."
+               }
+            ]
+         }
+      },
+      {        
+       "page_no":23,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {        
+       "page_no":24,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+         "page_no":25,
+         "position":"topLeft",         
+         "font_color": "#FFFFFF",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 20,
+          "text_box_width":80,
+          "margins": [
+            80,
+            80
+          ],
+
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"They laughed, they played,"
+               },
+               {
+                  "text":"and they sang along"
+               },
+               {
+                  "text":"She read him scary stories,"
+               },
+               {
+                  "text":"But stood by him strong!"
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"They laughed, they played,"
+               },
+               {
+                  "text":"and they sang along"
+               },
+               {
+                  "text":"She read him scary stories,"
+               },
+               {
+                  "text":"But stood by him strong!"
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"They laughed, they played,"
+               },
+               {
+                  "text":"and they sang along"
+               },
+               {
+                  "text":"She read him scary stories,"
+               },
+               {
+                  "text":"But stood by him strong!"
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"They laughed, they played,"
+               },
+               {
+                  "text":"and they sang along"
+               },
+               {
+                  "text":"She read him scary stories,"
+               },
+               {
+                  "text":"But stood by him strong!"
+               }
+            ]
+         }
+      },
+      {        
+       "page_no":26,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color"  :"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+         "page_no":27,         
+         "position":"topLeft",         
+         "font_color": "#FFFFFF",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 16,
+         "text_box_width":80,         
+          "margins": [
+            180,
+            80
+          ],
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"Soon they will be mighty,"
+               },
+               {
+                  "text":"wish the King and the Queen"
+               },
+               {
+                  "text":"And rule over the Kingdom"
+               },
+               {
+                  "text":"so, plenty, so lush and green!"
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"Soon they will be mighty,"
+               },
+               {
+                  "text":"wish the King and the Queen"
+               },
+               {
+                  "text":"And rule over the Kingdom"
+               },
+               {
+                  "text":"so, plenty, so lush and green!"
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"Soon they will be mighty,"
+               },
+               {
+                  "text":"wish the King and the Queen"
+               },
+               {
+                  "text":"And rule over the Kingdom"
+               },
+               {
+                  "text":"so, plenty, so lush and green!"
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"Soon they will be mighty,"
+               },
+               {
+                  "text":"wish the King and the Queen"
+               },
+               {
+                  "text":"And rule over the Kingdom"
+               },
+               {
+                  "text":"so, plenty, so lush and green!"
+               }
+            ]
+         }
+      },
+      {
+         "page_no":28,         
+         "position":"topLeft",         
+         "font_color": "#000000",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 16,
+         "text_box_width":80,         
+         "margins": [
+            190,
+            90
+         ],
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"As time passed on,"
+               },
+               {
+                  "text":"from summer to seasons colder"
+               },
+               {
+                  "text":"The siblings were now both,"
+               },
+               {
+                  "text":"stronger, wiser and older!"
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"As time passed on,"
+               },
+               {
+                  "text":"from summer to seasons colder"
+               },
+               {
+                  "text":"The siblings were now both,"
+               },
+               {
+                  "text":"stronger, wiser and older!"
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"As time passed on,"
+               },
+               {
+                  "text":"from summer to seasons colder"
+               },
+               {
+                  "text":"The siblings were now both,"
+               },
+               {
+                  "text":"stronger, wiser and older!"
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"As time passed on,"
+               },
+               {
+                  "text":"from summer to seasons colder"
+               },
+               {
+                  "text":"The siblings were now both,"
+               },
+               {
+                  "text":"stronger, wiser and older!"
+               }
+            ]
+
+         }
+      },
+      {        
+       
+       "page_no":29,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color"  :"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      },
+      {
+         "page_no":30,         
+         "position": "topLeft",
+         "font_color": "#000000",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 20,
+         "offset": [
+            -140,
+            0
+          ],
+         "margins": [
+            25,
+            55
+          ],
+         "copy":{
+            "boy_boy":[
+               {
+                  "text":"Such was the story of love,"
+               },
+               {
+                  "text":"as sweet as musk,"
+               },
+               {
+                  "text":"More precious than"
+               },
+               {
+                  "text":"diamonds and ivory tusk"
+               }
+            ],
+            "girl_girl":[
+               {
+                  "text":"Such was the story of love,"
+               },
+               {
+                  "text":"as sweet as musk,"
+               },
+               {
+                  "text":"More precious than"
+               },
+               {
+                  "text":"diamonds and ivory tusk"
+               }
+            ],
+            "boy_girl":[
+               {
+                  "text":"Such was the story of love,"
+               },
+               {
+                  "text":"as sweet as musk,"
+               },
+               {
+                  "text":"More precious than"
+               },
+               {
+                  "text":"diamonds and ivory tusk"
+               }
+            ],
+            "girl_boy":[
+               {
+                  "text":"Such was the story of love,"
+               },
+               {
+                  "text":"as sweet as musk,"
+               },
+               {
+                  "text":"More precious than"
+               },
+               {
+                  "text":"diamonds and ivory tusk"
+               }
+            ]
+         }
+      },
+      {
+         "page_no":31,         
+         "position": "topLeft",
+         "font_color": "#000000",
+         "text_align": "center",
+         "requireText":true,    
+         "multiline_margin": -2,
+         "font_size" : 20,
+         "offset": [
+            -140,
+            0
+          ],
+         "margins": [
+            25,
+            80
+          ],
+
+         "copy":{
+            "boy_boy":[
+
+               { "text" : "A sister and a brother." },
+               { "text" : "one soul one heart" },
+               { "text" : "Like two peas in a pod" },
+               { "text" : "and never apart." }   
+
+            ],
+            "girl_girl":[
+
+              { "text" : "A sister and a brother." },
+              { "text" : "one soul one heart" },
+              { "text" : "Like two peas in a pod" },
+              { "text" : "and never apart." }
+
+             ],
+             "boy_girl":[
+
+               { "text" : "A sister and a brother." },
+               { "text" : "one soul one heart" },
+               { "text" : "Like two peas in a pod" },
+               { "text" : "and never apart." }   
+
+            ],
+            "girl_boy":[
+
+              { "text" : "A sister and a brother." },
+              { "text" : "one soul one heart" },
+              { "text" : "Like two peas in a pod" },
+              { "text" : "and never apart." }
+
+            ]
+         }
+      },
+      {
+            "page_no": "31a",
+            "position": "topLeft",
+            "requireText": false,
+            "font_color": "rgb(0, 0, 0)",
+            "multiline_margin": 50,
+            "copy": {
+                "boy_boy": [],
+                "girl_girl": [],
+                "boy_girl": [],
+                "girl_boy": []
+            }
+        },
+        {
+            "page_no": "31b",
+            "position": "topLeft",
+            "requireText": false,
+            "font_color": "rgb(0, 0, 0)",
+            "multiline_margin": 50,
+            "copy": {
+                "boy_boy": [],
+                "girl_girl": [],
+                "boy_girl": [],
+                "girl_boy": []
+            }
+        },
+        {
+            "page_no": "31c",
+            "position": "topLeft",
+            "requireText": false,
+            "font_color": "rgb(0, 0, 0)",
+            "multiline_margin": 50,
+            "copy": {
+                "boy_boy": [],
+                "girl_girl": [],
+                "boy_girl": [],
+                "girl_boy": []
+            }
+        },
+        {
+            "page_no": "31e",
+            "position": "topLeft",
+            "requireText": false,
+            "font_color": "rgb(0, 0, 0)",
+            "multiline_margin": 50,
+            "copy": {
+                "boy_boy": [],
+                "girl_girl": [],
+                "boy_girl": [],
+                "girl_boy": []
+            }
+      },
+      {        
+       "page_no":32,
+       "position":"topLeft",
+       "requireText":false,
+       "font_color":"rgb(0, 0, 0)",
+       "multiline_margin":50,
+       "copy":{
+          "boy_boy":[
+          ],
+          "girl_girl":[
+          ],
+          "boy_girl":[
+          ],
+          "girl_boy":[
+          ]
+       }
+      }
+   ]
+}
