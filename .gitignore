@@ -1,7 +1,6 @@
 selenium/bulk_stress_test_preview/chrome_snapshots
 venv
 env
-.env
 nohup.out
 *.csv
 csvs
