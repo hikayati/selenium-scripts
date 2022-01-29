@@ -1,0 +1,848 @@
+{
+  "book_name": "The Football Star",
+  "font_style": "BerlinSansFBDemi/BerlinSansFBDemiBold.ttf",
+  "font_size": 24,
+  "font_color": "rgb(48,48,48)",
+  "data": [
+    {
+      "page_no": 1,
+      "isCover": true,
+      "requireText": true,
+      "position": "topCenter",
+      "name_case": "lower",
+      "copy": {
+        "boy": [
+          "The Football Star"
+        ],
+        "girl": [
+          "The Football Star"
+        ]
+      },
+      "top_margin": 150,
+      "content_margin": 10,
+      "font_style": "Wreckout-BWWR8.otf",
+      "font_size": {
+        "name": 96,
+        "book_name": 64
+      },
+      "font_color": {
+        "name": "rgb(224,109,109)",
+        "book_name": "rgb(255,255,255)"
+      }
+    },
+    {
+      "page_no": 1,
+      "position": "topLeft",
+      "requireText": false,
+      "copy": {
+        "boy": [],
+        "girl": []
+      }
+    },
+    {
+      "page_no": 2,
+      "position": "topLeft",
+      "requireText": false,
+      "copy": {
+        "boy": [],
+        "girl": []
+      }
+    },
+    {
+      "page_no": 3,
+      "position": "topLeft",
+      "requireText": false,
+      "copy": {
+        "boy": [],
+        "girl": []
+      }
+    },
+    {
+      "page_no": 4,
+      "position": "topLeft",
+      "requireText": true,
+      "font_color": "rgb(0,0,0)",
+      "multiline_margin": 60,
+      "isDedicationMessage": true,
+      "margins": [
+        100,
+        100
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "Dear {name},"
+          },
+          {
+            "text": "As like a game of football, you will face challenges and get tackled while you grow up."
+          },
+          {
+            "text": "Stand up, have courage, and never give up."
+          },
+          {
+            "text": "You will achieve your goals and we will always be there to support you"
+          },
+          {
+            "text": "Mama & Baba"
+          }
+        ],
+        "girl": [
+          {
+            "text": "Dear {name},"
+          },
+          {
+            "text": "As like a game of football, you will face challenges and get tackled while you grow up."
+          },
+          {
+            "text": "Stand up, have courage, and never give up."
+          },
+          {
+            "text": "You will achieve your goals and we will always be there to support you"
+          },
+          {
+            "text": "Mama & Baba"
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 6,
+      "position": "topLeft",
+      "requireText": true,
+      "margins": [
+        60,
+        40
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "{name} is playing football with his friends and the opposite team is winning yet again. The ball comes to him and it is the last chance for his team to equalize. He is close to the goal and equalize, but his friend is even closer and in a better position to score a goal."
+          }
+        ],
+        "girl": [
+          {
+            "text": "{name} is playing football with her friends and the opposite team is winning yet again. The ball comes to her and it is the last chance for her team to equalize. She is close to the goal and equalize, but her friend is even closer and in a better position to score a goal. "
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 7,
+      "position": "bottomLeft",
+      "requireText": true,
+      "copy": {
+        "boy": [
+          {
+            "text": "Opposite team players are getting closer to block him! {name} dribbles past the defender. He can see the goal clearly. He is ready to take a shot!"
+          }
+        ],
+        "girl": [
+          {
+            "text": "Opposite team players are getting closer to block her! {name} dribbles past the defender. She can see the goal clearly. She is ready to take a shot!"
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 8,
+      "position": "topLeft",
+      "requireText": true,
+      "copy": {
+        "boy": [
+          {
+            "text": "'Thud' the ball is taken away from him by another defender! With that the time is over and they have lost again!!"
+          }
+        ],
+        "girl": [
+          {
+            "text": "'Thud' the ball is taken away from her by another defender! With that the time is over and they have lost again!!"
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 9,
+      "position": "bottomLeft",
+      "requireText": true,
+      "margins": [
+        60,
+        40
+      ],
+      "wrap_after": 45,
+      "copy": {
+        "boy": [
+          {
+            "text": "His friends are crossed with him. If it were not for him being selfish it possibly would have been a different result."
+          }
+        ],
+        "girl": [
+          {
+            "text": "Her friends are crossed with her. If it were not for her being selfish it possibly would have been a different result."
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 10,
+      "position": "bottomLeft",
+      "requireText": true,
+      "copy": {
+        "boy": [
+          {
+            "text": "As he is leaving the park to go home a voice tells him…",
+            "font_size": 26
+          }
+        ],
+        "girl": [
+          {
+            "text": "As she is leaving the park to go home a voice tells her…",
+            "font_size": 26
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 11,
+      "position": "topLeft",
+      "requireText": true,
+      "multiline_margin": 20,
+      "margins": [
+        70,
+        30
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "\"It is all about helping each other and creating opportunities\".",
+            "font_size": 34
+          },
+          {
+            "text": "{name} looks to the elderly individual who looks rather familiar."
+          }
+        ],
+        "girl": [
+          {
+            "text": "\"It is all about helping each other and creating opportunities\".",
+            "font_size": 34
+          },
+          {
+            "text": "{name} looks to the elderly individual who looks rather familiar."
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 12,
+      "position": "topLeft",
+      "requireText": true,
+      "copy": {
+        "boy": [
+          {
+            "text": "{name} is disappointed by the result of football game today. Should I have passed the ball to my friend? He starts to think about the elderly man’s advice while he falls asleep."
+          }
+        ],
+        "girl": [
+          {
+            "text": "{name} is disappointed by the result of football game today. Should I have passed the ball to my friend? She starts to think about the elderly man’s advice while she falls asleep."
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 13,
+      "position": "bottomRight",
+      "requireText": false,
+      "copy": {
+        "boy": [
+          {
+            "text": ""
+          }
+        ],
+        "girl": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 14,
+      "position": "bottomRight",
+      "requireText": false,
+      "copy": {
+        "boy": [
+          {
+            "text": ""
+          }
+        ],
+        "girl": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 15,
+      "position": "bottomRight",
+      "requireText": false,
+      "copy": {
+        "boy": [
+          {
+            "text": ""
+          }
+        ],
+        "girl": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 16,
+      "position": "bottomLeft",
+      "requireText": true,
+      "copy": {
+        "boy": [
+          {
+            "text": "Oh, time has changed! {name} finds himself accompanied by bodyguards heading into the stadium."
+          }
+        ],
+        "girl": [
+          {
+            "text": "Oh, time has changed! {name} finds herself accompanied by bodyguards heading into the stadium. "
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 17,
+      "position": "bottomLeft",
+      "requireText": true,
+      "copy": {
+        "boy": [
+          {
+            "text": "He is shown to the changing room. It is the UAE football team and he is part of it!"
+          }
+        ],
+        "girl": [
+          {
+            "text": "She is shown to the changing room. It is the UAE football team and she is part of it!"
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 18,
+      "position": "topLeft",
+      "requireText": true,
+      "margins": [
+        50,
+        30
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "The coach comes in the changing room and discusses the tactics for the game. \"{name} why aren't you dressed? you are playing on the wing\""
+          }
+        ],
+        "girl": [
+          {
+            "text": "The coach comes in the changing room and discusses the tactics for the game. \"{name} why aren’t you dressed? you are playing on the wing\""
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 19,
+      "position": "topLeft",
+      "requireText": true,
+      "margins": [
+        50,
+        30
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "\"What's happening\" {name} is confused? Coach wants me to play! {name} dresses up quickly and heads to the pitch…."
+          }
+        ],
+        "girl": [
+          {
+            "text": "\"What’s happening\" {name} is confused? Coach wants me to play! {name} dresses up quickly and heads to the pitch…."
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 20,
+      "position": "topLeft",
+      "requireText": true,
+      "margins": [
+        45,
+        45
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "The captain is right behind and tells him \"It is all about helping each other and creating opportunities\" before they head to the pitch. "
+          }
+        ],
+        "girl": [
+          {
+            "text": "The captain is right behind and tells her \"It is all about helping each other and creating opportunities\" before they head to the pitch. "
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 21,
+      "position": "topLeft",
+      "requireText": true,
+      "margins": [
+        50,
+        40
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "\"I have heard this before!\" {name} thinks"
+          }
+        ],
+        "girl": [
+          {
+            "text": "\"I have heard this before!\" {name} thinks"
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 22,
+      "position": "bottomLeft",
+      "requireText": true,
+      "wrap_after": 55,
+      "copy": {
+        "boy": [
+          {
+            "text": "{name} is playing well! He is involved in many moves and is working hard. He is helping his team attack and defend together. The game is tied up and there are last few minutes remaining now. "
+          }
+        ],
+        "girl": [
+          {
+            "text": "{name} is playing well! she is involved in many moves and is working hard. She is helping her team attack and defend together. The game is tied up and there are last few minutes remaining now. "
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 23,
+      "position": "bottomLeft",
+      "requireText": true,
+      "text_box_width": 70,
+      "margins": [
+        40,
+        108
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "UAE is attacking the opposition goal, and he creates space for himself."
+          }
+        ],
+        "girl": [
+          {
+            "text": "UAE is attacking the opposition goal, and she creates space for herself."
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 24,
+      "position": "bottomLeft",
+      "requireText": true,
+      "margins": [
+        50,
+        170
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "{name} makes a run and gets a pass. No offside! He is through on goal. The goalkeeper rushes towards {name} making himself bigger……"
+          }
+        ],
+        "girl": [
+          {
+            "text": "{name} makes a run and gets a pass. No offside! She is through on goal. The goalkeeper rushes towards {name} making himself bigger……"
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 25,
+      "position": "bottomLeft",
+      "requireText": true,
+      "margins": [
+        50,
+        135
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "{name} knows his striker made the run with him. He can see him through the corner of his eye.",
+            "bottom_margin": 5
+          },
+          {
+            "text": "{name} does not take a shot; he passes the ball……",
+            "font_size": 30
+          }
+        ],
+        "girl": [
+          {
+            "text": "{name} knows her striker made the run with her. She can see him through the corner of her eye.",
+            "bottom_margin": 5
+          },
+          {
+            "text": "{name} does not take a shot; She passes the ball……",
+            "font_size": 30
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 26,
+      "position": "bottomLeft",
+      "requireText": true,
+      "text_align": "center",
+      "margins": [
+        40,
+        130
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "GOAL.",
+            "font_size": 42,
+            "bottom_margin": -10
+          },
+          {
+            "text": "The striker scores. UAE wins the game."
+          }
+        ],
+        "girl": [
+          {
+            "text": "GOAL.",
+            "font_size": 42,
+            "bottom_margin": -10
+          },
+          {
+            "text": "The striker scores. UAE wins the game."
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 27,
+      "position": "topLeft",
+      "requireText": true,
+      "text_align": "center",
+      "multiline_margin": 0,
+      "margins": [
+        40,
+        20
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "The game is finished."
+          },
+          {
+            "text": "{name} is the hero!",
+            "font_size": 30
+          },
+          {
+            "text": "The team is celebrating with him and throw him up in the air."
+          }
+        ],
+        "girl": [
+          {
+            "text": "The game is finished."
+          },
+          {
+            "text": "{name} is the hero!",
+            "font_size": 30
+          },
+          {
+            "text": "The team is celebrating with her and throw her up in the air."
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 28,
+      "position": "topLeft",
+      "requireText": true,
+      "text_box_width": 50,
+      "text_align": "center",
+      "margins": [
+        100,
+        220
+      ],
+      "offset": [
+        -60,
+        0
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "As he is celebrating his eyes open and he lands in his bed! He looks around and his teammates are gone. He is in his room!"
+          }
+        ],
+        "girl": [
+          {
+            "text": "As she is celebrating her eyes open and she lands in her bed! She looks around and her teammates are gone. She is in her room!"
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 29,
+      "position": "topLeft",
+      "requireText": true,
+      "margins": [
+        50,
+        35
+      ],
+      "text_box_width": 80,
+      "copy": {
+        "boy": [
+          {
+            "text": "Was this all a dream? Or has something magical happened to him?"
+          }
+        ],
+        "girl": [
+          {
+            "text": "Was this all a dream? Or has something magical happened to her?"
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 30,
+      "position": "bottomLeft",
+      "requireText": true,
+      "margins": [
+        40,
+        100
+      ],
+      "text_box_width":85,
+      "copy": {
+        "boy": [
+          {
+            "text": "Now football is back in the park and yesterday's opposition is looking to beat them again. {name} is gathering with his friends before the challenge and talks about his magical dream. "
+          }
+        ],
+        "girl": [
+          {
+            "text": "Now football is back in the park and yesterday’s opposition is looking to beat them again. {name} is gathering with her friends before the challenge and talks about her magical dream. "
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 31,
+      "position": "topLeft",
+      "requireText": true,
+      "margins": [
+        50,
+        30
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "His friends are all excited. Maybe something magical has really happened."
+          }
+        ],
+        "girl": [
+          {
+            "text": "Her friends are all excited. Maybe something magical has really happened."
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 32,
+      "position": "bottomLeft",
+      "requireText": true,
+      "margins": [
+        50,
+        70
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "{name} leads his friends to the park. He is now not just thinking to score, but rather get involved in creating opportunities for his friends to score."
+          }
+        ],
+        "girl": [
+          {
+            "text": "{name} leads her friends to the park. She is now not just thinking to score, but rather getting involved in creating opportunities for her friends to score."
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 33,
+      "position": "bottomLeft",
+      "requireText": true,
+      "text_align": "center",
+      "copy": {
+        "boy": [
+          {
+            "text": "He passes the ball and his friend scores!"
+          }
+        ],
+        "girl": [
+          {
+            "text": "She passes the ball and her friend scores!"
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 34,
+      "position": "topLeft",
+      "requireText": true,
+      "text_align": "center",
+      "copy": {
+        "boy": [
+          {
+            "text": "Now his friend returns the favor and"
+          },
+          {
+            "text": "{name} scores!",
+            "font_size": 34
+          },
+          {
+            "text": "They have beaten the opposition and played the best football as a team."
+          }
+        ],
+        "girl": [
+          {
+            "text": "Now her friend returns the favor and"
+          },
+          {
+            "text": "{name} scores!",
+            "font_size": 34
+          },
+          {
+            "text": "They have beaten the opposition and played the best football as a team."
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 35,
+      "position": "bottomLeft",
+      "requireText": true,
+      "copy": {
+        "boy": [],
+        "girl": []
+      }
+    },
+    {
+      "page_no": 36,
+      "position": "topLeft",
+      "requireText": true,
+      "text_box_width": 72,
+      "copy": {
+        "boy": [
+          {
+            "text": "The game has ended, and {name} is heading home with a big smile on his face, when he sees the same elderly man who advised him yesterday"
+          }
+        ],
+        "girl": [
+          {
+            "text": "The game has ended, and {name} is heading home with a big smile on her face, when she sees the same elderly man who advised her yesterday"
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 37,
+      "position": "bottomLeft",
+      "requireText": true,
+      "multiline_margin": 10,
+      "text_align": "center",
+      "margins": [
+        40,
+        100
+      ],
+      "copy": {
+        "boy": [
+          {
+            "text": "He is smiling at him and says"
+          },
+          {
+            "text": "\"The magic has just begun\"",
+            "font_size": 32
+          }
+        ],
+        "girl": [
+          {
+            "text": "He is smiling at her and says"
+          },
+          {
+            "text": "\"The magic has just begun\"",
+            "font_size": 32
+          }
+        ]
+      }
+    },
+    {
+      "page_no": 38,
+      "position": "topLeft",
+      "requireText": false,
+      "copy": {
+        "boy": [],
+        "girl": []
+      }
+    },
+    {
+      "page_no": 39,
+      "position": "topLeft",
+      "requireText": false,
+      "copy": {
+        "boy": [],
+        "girl": []
+      }
+    },
+    {
+      "page_no": "40a",
+      "position": "topLeft",
+      "requireText": false,
+      "copy": {
+        "boy": [],
+        "girl": []
+      }
+    },
+    {
+      "page_no": 41,
+      "position": "topLeft",
+      "requireText": false,
+      "copy": {
+        "boy": [],
+        "girl": []
+      }
+    },
+    {
+      "page_no": 42,
+      "position": "topLeft",
+      "requireText": false,
+      "copy": {
+        "boy": [],
+        "girl": []
+      }
+    } 
+  ]
+}
