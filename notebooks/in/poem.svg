@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xml:lang="en-GB" width="250" height="100" >
+    <title>How Doth the Little Crocodile - Lewis Carroll</title>
+    <desc>From Alice in Wonderland</desc>
+    <style>
+        text {        
+            font-size : 8px;        
+        }
+    </style>
+    <text class="verse">       
+        <tspan dy="1.2em" x="5">Opposite team players are getting closer to block him! {name} dribbles</tspan>               
+        <tspan dy="1.2em" x="5">past the defender. He can see the goal clearly. He is ready to take a shot!</tspan>                          
+      </text>
+    </svg>

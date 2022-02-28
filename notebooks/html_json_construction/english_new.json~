@@ -1,0 +1,2615 @@
+{
+   "book_name": "lost-my-name",
+   "book_type": "hybrid",
+   "main_container_style": [],
+   "body_style": [
+      "background: url({background}) center center fixed;",
+      "color: #000000;",
+      "font-size: 0.75rem;",
+      "font-style: normal;",
+      "font-weight: normal;",
+      "letter-spacing: 0;",
+      "height:2000 px;",
+      "width:2000 px;",
+      "text-decoration: none;",
+      "-webkit-background-size: cover;",
+      "-moz-background-size: cover;",
+      "-o-background-size: cover;",
+      "background-size: cover;"
+   ],
+   "groups": [
+      {
+         "group_index": "1",
+         "group_tag": "LetterA",
+         "templates": [
+            {
+               "template_index": "1",
+               "template_tag": "cover",
+               "template_gendering_logic": "",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/a/1/1",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:10px;"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:600px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterA-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterA-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterA-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterA-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:500px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "2",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/a/1/2",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterA-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterA-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterA-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterA-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "3",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/a/1/3",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterA-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterA-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterA-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterA-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "4",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/a/1/4",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterA-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterA-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterA-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterA-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "group_index": "2",
+         "group_tag": "LetterA",
+         "templates": [
+            {
+               "template_index": "1",
+               "template_tag": "cover",
+               "template_gendering_logic": "",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/a/2/1",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:10px;"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:600px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterA-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterA-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterA-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterA-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:500px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "2",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/a/2/2",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterA-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterA-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterA-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterA-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "3",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/a/2/3",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterA-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterA-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterA-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterA-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "4",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/a/2/4",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterA-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterA-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterA-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterA-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "group_index": "3",
+         "group_tag": "LetterY",
+         "templates": [
+            {
+               "template_index": "1",
+               "template_tag": "cover",
+               "template_gendering_logic": "",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/y/1",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:10px;"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:600px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterY-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterY-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterY-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterY-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:500px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "2",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/y/2",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterY-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterY-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterY-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterY-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "3",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/y/3",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterY-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterY-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterY-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterY-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "4",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/y/4",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterY-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterY-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterY-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterY-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "group_index": "4",
+         "group_tag": "LetterL",
+         "templates": [
+            {
+               "template_index": "1",
+               "template_tag": "cover",
+               "template_gendering_logic": "",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/l/1",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:10px;"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:600px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterL-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterL-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterL-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterL-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:500px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "2",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/l/2",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterL-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterL-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterL-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterL-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "3",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/l/3",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterL-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterL-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterL-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterL-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "4",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/l/4",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy LetterL-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl LetterL-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a LetterL-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 LetterL-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "group_index": "5",
+         "group_tag": "StoryEnding",
+         "templates": [
+            {
+               "template_index": "1",
+               "template_tag": "StoryEnding",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/ending/1",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy StoryEnding-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl StoryEnding-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a StoryEnding-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 StoryEnding-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "2",
+               "template_tag": "StoryEnding",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/ending/2",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy StoryEnding-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl StoryEnding-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a StoryEnding-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 StoryEnding-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "3",
+               "template_tag": "StoryEnding",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/ending/3",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy StoryEnding-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl StoryEnding-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a StoryEnding-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 StoryEnding-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "4",
+               "template_tag": "StoryEnding",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/ending/4",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy StoryEnding-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl StoryEnding-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a StoryEnding-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 StoryEnding-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "group_index": "6",
+         "group_tag": "StoryFilling",
+         "templates": [
+            {
+               "template_index": "1",
+               "template_tag": "StoryEnding",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "1",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy StoryFilling-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl StoryFilling-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a StoryFilling-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 StoryFilling-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "2",
+               "template_tag": "StoryEnding",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "1",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy StoryFilling-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl StoryFilling-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a StoryFilling-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 StoryFilling-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "3",
+               "template_tag": "StoryEnding",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "1",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy StoryFilling-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl StoryFilling-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a StoryFilling-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 StoryFilling-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "4",
+               "template_tag": "StoryEnding",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "1",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy StoryFilling-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl StoryFilling-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a StoryFilling-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 StoryFilling-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "group_index": "7",
+         "group_tag": "DynamicLetter",
+         "letter": "",
+         "templates": [
+            {
+               "template_index": "1",
+               "template_tag": "DynamicLetter",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/dynamic/1",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy DynamicLetter-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl DynamicLetter-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a DynamicLetter-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 DynamicLetter-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "2",
+               "template_tag": "DynamicLetter",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/dynamic/2",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy DynamicLetter-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl DynamicLetter-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a DynamicLetter-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 DynamicLetter-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "3",
+               "template_tag": "DynamicLetter",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/dynamic/3",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy DynamicLetter-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl DynamicLetter-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a DynamicLetter-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 DynamicLetter-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "4",
+               "template_tag": "DynamicLetter",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/dynamic/4",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy DynamicLetter-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl DynamicLetter-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a DynamicLetter-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 DynamicLetter-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "group_index": "8",
+         "group_tag": "Intro",
+         "templates": [
+            {
+               "template_index": "1",
+               "template_tag": "DynamicLetter",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/intro/1",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy Intro-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl Intro-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a Intro-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 Intro-0",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "2",
+               "template_tag": "DynamicLetter",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/intro/2",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy Intro-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl Intro-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a Intro-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 Intro-1",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "3",
+               "template_tag": "DynamicLetter",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/intro/3",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy Intro-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl Intro-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a Intro-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 Intro-2",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "template_index": "4",
+               "template_tag": "DynamicLetter",
+               "template_gendering_logic": "",
+               "name_case": "upper",
+               "background": "/home/sniper/work/hekayati_backend/data/content/books/lost-my-name/gallery/intro/4",
+               "elements": [
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "/gallery",
+                           "style": [
+                              "position:absolute;",
+                              "right:100px;",
+                              "top:300px"
+                           ]
+                        },
+                        {
+                           "type": "text",
+                           "tag_name": "p",
+                           "style": [
+                              "position:absolute;",
+                              "top:500px;"
+                           ],
+                           "script_english": {
+                              "boy": [
+                                 {
+                                    "text": "English Boy Intro-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "English Girl Intro-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           },
+                           "script_arabic": {
+                              "boy": [
+                                 {
+                                    "text": "\u0627\u0644\u0641\u062a\u0649 \u0627\u0644\u0639\u0631\u0628\u064a Intro-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ],
+                              "girl": [
+                                 {
+                                    "text": "\u0641\u062a\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 Intro-3",
+                                    "style": [
+                                       "font-size:100px"
+                                    ],
+                                    "tag_name": "p"
+                                 }
+                              ]
+                           }
+                        }
+                     ]
+                  },
+                  {
+                     "character": [
+                        {
+                           "type": "avatar",
+                           "image_name": "1",
+                           "style": [
+                              "position:absolute;",
+                              "right:700px;"
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

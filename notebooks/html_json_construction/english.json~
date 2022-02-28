@@ -1,0 +1,1502 @@
+{
+  "book_name": "lost-my-name",
+  "book_type" : "hybrid",
+  "main_container_style" : [],
+  "body_style" : [
+      "background: url({background}) center center fixed;",
+      "color: #000000;",
+      "font-size: 0.75rem;",
+      "font-style: normal;",
+      "font-weight: normal;",
+      "letter-spacing: 0;",
+      "height:2000 px;",
+      "width:2000 px;",
+      "text-decoration: none;",
+      "-webkit-background-size: cover;",
+      "-moz-background-size: cover;",
+      "-o-background-size: cover;",
+      "background-size: cover;" 
+  ],
+  "groups": [
+   
+   {
+      "group_index" : "1",
+      "group_tag" : "LetterA",
+      "templates": [
+        {
+          "template_index": "1",
+          "template_tag" : "cover",
+          "template_gendering_logic" : "",
+          "background" : "gallery/a/1/1",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:10px;"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:600px;"],
+                  "script" : {                    
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]            
+            }
+          ]
+        },
+        {
+          "template_index": "2",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/a/1/2",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "3",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/a/1/3",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            }
+         ]        
+       },
+       {
+          "template_index": "4",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/a/1/4",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            }
+         ]        
+       }
+    ]
+  },
+   
+  {
+      "group_index" : "2",
+      "group_tag" : "LetterA",
+      "templates": [
+        {
+          "template_index": "1",
+          "template_tag" : "cover",
+          "template_gendering_logic" : "",
+          "background" : "gallery/a/2/1",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:10px;"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:600px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]            
+            }
+          ]
+        },
+        {
+          "template_index": "2",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/a/2/2",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            }
+         ]        
+       },
+       {
+          "template_index": "3",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/a/2/3",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            }
+         ]        
+       },
+       {
+          "template_index": "4",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/a/2/4",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            }
+         ]        
+       }
+    ]
+  },
+  
+  
+  {
+      "group_index" : "3",
+      "group_tag" : "LetterY",
+      "templates": [
+        {
+          "template_index": "1",
+          "template_tag" : "cover",
+          "template_gendering_logic" : "",
+          "background" : "gallery/y/1",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:10px;"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:600px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]            
+            }
+          ]
+        },
+        {
+          "template_index": "2",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/y/2",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            }
+         ]        
+       },
+       {
+          "template_index": "3",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/y/3",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "4",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/y/4",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       }
+    ]
+  },
+    
+  
+  {
+      "group_index" : "4",
+      "group_tag" : "LetterL",
+      "templates": [
+        {
+          "template_index": "1",
+          "template_tag" : "cover",
+          "template_gendering_logic" : "",
+          "background" : "gallery/l/1",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:10px;"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:600px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]            
+            },
+            {
+               "character":[
+                 {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:500px;"]
+                 }
+              ]
+           }
+          ]
+        },
+        {
+          "template_index": "2",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/l/2",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "3",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/l/3",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "4",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/l/4",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       }
+    ]
+  }, 
+   
+   
+  {
+    "group_index" : "5",
+    "group_tag" : "StoryEnding",
+    "templates" : [
+      {
+          "template_index": "1",
+          "template_tag" : "StoryEnding",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/ending/1",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            }
+         ]        
+       },
+       {
+          "template_index": "2",
+          "template_tag" : "StoryEnding",
+          "template_gendering_logic" : "",          
+          "name_case": "upper",
+          "background" : "gallery/ending/2",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            }
+         ]        
+       },
+       {
+          "template_index": "3",
+          "template_tag" : "StoryEnding",
+          "template_gendering_logic" : "",          
+          "name_case": "upper",
+          "background" : "gallery/ending/3",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            }
+         ]        
+       },
+       {
+          "template_index": "4",
+          "template_tag" : "StoryEnding",
+          "template_gendering_logic" : "",          
+          "name_case": "upper",
+          "background" : "gallery/ending/4",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "Name Like yours {random_name}",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            }
+         ]        
+       }
+    ]
+  },
+  {
+    "group_index" : "6",
+    "group_tag" : "StoryFilling",
+    "templates" : [
+      {
+          "template_index": "1",
+          "template_tag" : "StoryEnding",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "1",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "2",
+          "template_tag" : "StoryEnding",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "1",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "english",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "3",
+          "template_tag" : "StoryEnding",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "1",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "4",
+          "template_tag" : "StoryEnding",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "1",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       }
+    ]
+  },
+  {
+    "group_index" : "7",
+    "group_tag" : "DynamicLetter",
+    "letter" : "",
+    "templates" : [
+      {
+          "template_index": "1",
+          "template_tag" : "DynamicLetter",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/dynamic/1",          
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "2",
+          "template_tag" : "DynamicLetter",
+          "template_gendering_logic" : "",          
+          "name_case": "upper",
+          "background" : "gallery/dynamic/2",          
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "3",
+          "template_tag" : "DynamicLetter",
+          "template_gendering_logic" : "",          
+          "name_case": "upper",
+          "background" : "gallery/dynamic/3",          
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "4",
+          "template_tag" : "DynamicLetter",
+          "template_gendering_logic" : "",          
+          "name_case": "upper",
+          "background" : "gallery/dynamic/4",          
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       }
+    ]
+  },
+  {
+    "group_index" : "8",
+    "group_tag" : "Intro",
+    "templates" : [
+      {
+          "template_index": "1",
+          "template_tag" : "DynamicLetter",
+          "template_gendering_logic" : "",          
+          "name_case": "upper",
+          "background" : "gallery/intro/1",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "2",
+          "template_tag" : "DynamicLetter",
+          "template_gendering_logic" : "",          
+          "name_case": "upper",
+          "background" : "gallery/intro/2",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "3",
+          "template_tag" : "DynamicLetter",
+          "template_gendering_logic" : "",
+          
+          "name_case": "upper",
+          "background" : "gallery/intro/3",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       },
+       {
+          "template_index": "4",
+          "template_tag" : "DynamicLetter",
+          "template_gendering_logic" : "",          
+          "name_case": "upper",
+          "background" : "gallery/intro/4",
+          "elements" : [
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:100px;", "top:300px"]
+                },            
+                {
+                  "type" : "text",
+                  "tag_name" : "p",
+                  "style" : [ "position:absolute;", "top:500px;"],
+                  "script" : {
+                    "boy" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ],
+                    "girl" : [
+                        {
+                            "text" : "English",
+                            "style" : ["font-size:100px"],
+                            "tag_name" : "p"
+                        }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "character":[
+                {
+                  "type" : "avatar",
+                  "image_name" : "1",
+                  "style" : [ "position:absolute;", "right:700px;"]
+                }
+              ]
+           }
+         ]        
+       }
+    ]
+  }
+
+  ]
+}

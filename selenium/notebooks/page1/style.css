@@ -1,0 +1,242 @@
+@charset "UTF-8";
+/**
+* Eric Meyer's Reset CSS v2.0
+*/
+html, body, div, span, applet, object, iframe,
+h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+  /*demo!TbAZYcnd*/
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video, input, textarea {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  /*Fg7JVaA1oMcNvBG*/
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, menu, nav, section, time {
+  display: block;
+  /*m*/
+}
+  /*demo!aLFK59*/
+
+body {
+  line-height: 1;
+  /*9eyeyjdSjrW4mh*/
+  color: black;
+  background: transparent;
+}
+
+a {
+  /*demo!WcDgowrD7C*/
+  color: inherit;
+  /*demo!4GUejUua*/
+  text-decoration: none;
+  /*demo!vmv*/
+}
+  /*KUGEe5KHIRx*/
+
+ol, ul {
+  list-style: none;
+  /*04UnxnA4Cv*/
+}
+
+  /*1872WhvULVYOxjEP*/
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  /*demo!sPkMDj*/
+  content: '';
+  content: none;
+  /*demo!jfovw9cPC32ZZbEeJ*/
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* meyerweb css reset end */
+
+textarea:focus, input:focus {
+  outline: 0;
+  /*demo!TnOLHHlJ2C*/
+}
+
+input {
+  border-width: 0;
+}
+  /*bHdT*/
+
+em {
+  font-style: italic;
+}
+
+h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  /*demo!Oz*/
+  margin-top: 0;
+  /*demo!s2uoRcdPMaE*/
+  margin-bottom: 0;
+  /*demo!rSEXHxIM*/
+}
+
+
+h1 {
+      position: absolute;
+      top: 300px;
+      left: 850px;
+      z-index: 2;
+      font-size: 10em;
+      letter-spacing: 15px;
+      text-transform: uppercase;
+      transform: rotate(-10deg);
+      text-shadow: 1px 1px hsl(50, 50%, 45%),
+                   2px 2px hsl(50, 50%, 40%),
+                   3px 3px hsl(50, 50%, 35%),
+                   4px 4px hsl(50, 50%, 34%),
+                   5px 5px hsl(50, 50%, 33%),
+                   6px 6px hsl(50, 50%, 32%),
+                   7px 7px hsl(50, 50%, 31%),
+                   8px 8px hsl(50, 50%, 30%),
+                   9px 9px hsl(50, 50%, 29%),
+                   10px 10px hsl(50, 50%, 28%),
+                   10px 10px 30px rgba(0,0,0,.7),
+  }
+
+.group:before,
+.group:after {
+  content: " ";
+  display: table;
+  /*demo!NjO*/
+}
+
+  /*demo!X8L*/
+.group:after {
+  clear: both;
+}
+  /*demo!kS*/
+
+  /*DBCYU04*/
+.group {
+  zoom: 1; /* ie 6/7 */
+  /*demo!IBp1RcwDoaNAKs5q1*/
+}
+
+embed,
+img,
+object,
+video {
+  max-width: 100%;
+  /*demo!gzYQQA9XMLt*/
+}
+sup {
+  font-size: 58.3%;
+  vertical-align: text-top;
+}
+sub {
+  font-size: 58.3%;
+  vertical-align: text-bottom;
+}
+.no-space-between-inline-blocks {
+  *letter-spacing: normal; /*reset IE < 8*/
+  letter-spacing: -0.31em; /*webkit*/
+  word-spacing: -0.43em; /*IE < 8 && gecko*/
+}
+/*restore spacing on inner elements*/
+.no-space-between-inline-blocks > * {
+  /*demo!j06vnog*/
+  letter-spacing: normal;
+  word-spacing: normal;
+  /*demo!T84AN684f8h*/
+}
+.displace {
+  /*bEmLa*/
+  left: -5000px;
+  /*demo!4tow6y*/
+  position: absolute;
+}
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+  /*demo!8D8ohSMyZEWmiBR*/
+*,
+*:after,
+*:before {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  /*demo!vMLydY*/
+}
+html {
+  /*oyQX1KGT*/
+  font-size: 16px;
+}
+body {
+  color: #000000;
+  /*demo!xnIVN5G1Bb1b5B*/
+  font-size: 0.75rem; /* 12px / 16px = 0.75rem */
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+.global_container_ {
+  float: none;
+  height: 2717px;
+  /*demo!tzccMNCCd4W71pV*/
+  margin: 0 auto;
+  min-height: 2717px;
+  position: relative;
+  width: 2717px;
+  background: url(images/white_line.png) no-repeat;
+  /*c7W*/
+}
+.shadow {
+  /*AZz16uCEGV3fInHkC*/
+  left: 50%;
+  /*demo!n8hQyaMmgyfd8*/
+  position: absolute;
+  top: 1591px;
+  margin-left: -1282.5px;
+}
+.kid {
+  left: 50%;
+  position: absolute;
+  /*3gPy*/
+  top: 616px;
+  margin-left: -1266.5px;
+  /*demo!EeldjIM7BgkKOZcr5KG*/
+}
+.kid-2 {
+  /*demo!x*/
+  left: 50%;
+  position: absolute;
+  /*K6iGwzWku5*/
+  top: 609px;
+  margin-left: -128.5px;
+}
+.tex__free_noise_glitter_texture_by_cocobunnie-d7tzw2j-1-copy-3 {
+  left: 50%;
+  position: absolute;
+  top: 0;
+  margin-left: -1358.5px;
+}
